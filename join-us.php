@@ -29,8 +29,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-9">
-                            <span class="text-white alt-font">Devenir Thiguy</span>
-                            <h1 class="text-white">Qui sommes-nous ?</h1>
+                            <span class="text-white alt-font">Becoming a Thiguy</span>
+                            <h1 class="text-white">Who are we ?</h1>
                             <p class="text-white lead"> Créée en 2014 avec la volonté de faire bouger le monde de la création de Produits numériques, Thiga est devenu un acteur majeur du Product Management grace à ses Thiguys, aux livres publiés, au blog et aux conférences.</p><p class="text-white lead"> Être un Thiguy, c'est travailler dans une société aux convictions et aux valeurs fortes mais aussi prendre part à une aventure.</p>
                         </div>
                     </div>
@@ -42,34 +42,34 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h2>Nos valeurs</h2><br><br>
+							<h2>Our values</h2><br><br>
 						</div>
 					</div>
 					
 					<div class="row">
 						<div class="col-sm-3">
-							<h6>La bienveillance</h6>
+							<h6>People first</h6>
 							<p>
-								Nous savons que la valeur d'un cabinet de conseil réside quasi exclusivement dans les personnes qui le composent. La bienveillance c'est le respect de chaque Thiguys, l'écoute, l'entre-aide, l'égalité de traitement.
+								You grow. We grow. Thiga puts People First, always. With a thrust on personal development Thiga provides a mutual atmosphere of respect, trust, responsibility and accountability that helps foster great ideas and innovation.
 							</p>
 						</div>
 						
 						<div class="col-sm-3">
-							<h6>L'excellence</h6>
+							<h6>Quality</h6>
 							<p>
-								L'excellence est le fruit d'une grande exigence. Nous cherchons en permanence à nous améliorer dans nos pratiques et nous n'hésitons pas à aller hors des sentiers battus pour apprendre plus. 
+							    At Thiga Quality Without Compromise is the Mantra. Be it work, be it personal interactions, be it the surroundings or be it the self, at Thiga 100% is the norm.
 							</p>
 						</div>
 						
 						<div class="col-sm-3">
-							<h6>Le partage de la connaissance</h6>
+							<h6>Sharing knowledge</h6>
 							<p>
-								Il est important de savoir mais aussi de faire savoir. Que ce soit via nos livres, notre blog ou dans les conférences, nous n'hésitons pas à transmettre ce que nous avons appris. 
+								Thiga believes in sharing knowledge. The more you share it, the more it grows. With mandatory monthly sessions of knowledge exchange. Thiga ensures a flow of knowledge from country to country, unit to unit and employee to employee.
 						</div>
 						<div class="col-sm-3">
-							<h6>L'humour</h6>
+							<h6>Humor</h6>
 							<p>
-								Nous essayons de toujours garder une pointe de légereté et de second degré dans tout ce que nous faisons. Cela nous permet de garder la tête sur les épaules et de surmonter plus facilement les difficultés.
+								Being excellent at what we do requires a continuing involvement, so we think not taking ourselves too seriously is vital.
 							</p>
 						</div>
 					</div>
@@ -86,7 +86,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix">
-							<h2>Pourquoi nous rejoindre ?</h2><br/>
+							<h2>Why join us ?</h2><br/>
 							<p class="lead">
 								Depuis le premier jour, nous avons tout fait pour construire une société accueillante et dynamique : un coeur de startup dans une enveloppe de cabinet de conseil.
 							</p>
@@ -98,7 +98,7 @@
 											<i class="icon icon-genius"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Faire des missions de qualité</h6>
+											<h6>High-quality missions</h6>
 											<p>
 												Les thiguys travaillent tous sur des produits numériques B2B et B2C dans des contextes agiles.  
 											</p>
@@ -112,7 +112,7 @@
 											<i class="icon icon-flag"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Rejoindre une communauté</h6>
+											<h6>Being part of a community</h6>
 											<p>
 												Plus qu'un cabinet de conseil, Thiga est une communauté de passionnés de Product Management. Nous nous réunissons tous plusieurs fois par mois.
 											</p>
@@ -128,7 +128,7 @@
 											<i class="icon icon-mobile"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Devenir full-stack ! </h6>
+											<h6>Become a full-stack Product Manager !</h6>
 											<p>
 												Chaque Thiguy peut rejoindre une ou plusieurs tribus et progresser sur toutes les compétences du Product Management.
 											</p>
@@ -142,7 +142,7 @@
 											<i class="icon icon-clipboard"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Participer à une aventure</h6>
+											<h6>Embark on a adventure</h6>
 											<p>
 												Les Thiguys sont tous des contributeurs à la vie de la société et à son rayonnement (blog, livres, conférences).
 											</p>
@@ -160,11 +160,11 @@
                 <div class="container">
                     <div class="row clearfix">
                         <div class="col-sm-6 pull-left col-xs-11">
-                            <h3 class="text-white"><strong>Vous vous sentez l'âme d'un Thiguy ?</strong></h3>
+                            <h3 class="text-white"><strong>Do you feel like joining us ?</strong></h3>
                         </div>
                         
                         <div class="col-sm-4 col-xs-12 pull-right text-right">
-                            <a target="_blank" href="https://www.welcometothejungle.co/companies/thiga/jobs" class="btn btn-primary btn-white">toutes nos offres sur Welcome to the jungle</a>
+                            <a target="_blank" href="https://www.welcometothejungle.co/companies/thiga/jobs" class="btn btn-primary btn-white">check out our job offers on linkedin</a>
                         </div>
                     </div>
                 </div>
@@ -252,7 +252,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                            <h1>Thiga en chiffres</h1>  
+                            <h1>Figures</h1>  
                         </div>
                     </div>
                     
@@ -271,16 +271,16 @@
                                 <div class="stat-bubble">
                                     <span>2</span>
                                 </div>
-                                <h3>Pays</h3>   
+                                <h3>Offices</h3>   
                             </div>
                         </div>
                         
                         <div class="col-md-3 col-sm-6">
                             <div class="stat feature">
                                 <div class="stat-bubble">
-                                    <span>20</span>
+                                    <span>10</span>
                                 </div>
-                                <h3>Postes ouverts</h3> 
+                                <h3>Open positions</h3> 
                             </div>
                         </div>
                         
@@ -289,7 +289,7 @@
                                 <div class="stat-bubble">
                                     <span>30</span>
                                 </div>
-                                <h3>Âge moyen</h3> 
+                                <h3>Median age</h3> 
                             </div>
                         </div>
                     </div>

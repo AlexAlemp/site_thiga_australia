@@ -7,8 +7,8 @@
 <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Thiga - Full-stack Product Management</title>
-        <meta name="description" content="Thiga, cabinet de conseil spécialisé en Product Management">
+        <title>Thiga - Agile Product Management</title>
+        <meta name="description" content="Thiga is a consulting firm dedicated to Product Management & Product Design">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         
@@ -18,11 +18,11 @@
 			{
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
-			  "url": "http://beta.thiga.fr",
-			  "name": "Thiga - Full-stack Product Management",
+			  "url": "http://thiga.com.au",
+			  "name": "Thiga - Agile Product Management",
 			  "contactPoint": {
 			    "@type": "ContactPoint",
-			    "telephone": "+(33)617517787",
+			    "telephone": "",
 			    "contactType": "sales"
 			  }
 			}
@@ -44,7 +44,7 @@
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<img alt="logo" class="logo" src="/img/logos-thiga/logo-HD-blanc.png">
-							<h1 class="text-white">Full-stack Product Management</h1>
+							<h1 class="text-white">Agile Product Management & Product Design</h1>
 							
 						</div>
 					</div>
@@ -56,21 +56,19 @@
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
 							
-							<h2>Notre mission est de faire évoluer la manière de créer des produits numériques</h2><br>
-							<p class="lead"></p>
-							<p class="lead">
-							Les méthodes et outils que nous utilisons sont une synthèse des meilleures pratiques du marché : <strong>Lean Startup, Design Thinking, Agile & Lean UX</strong>
-							</p>
-							<p class="lead">
-							Nous intervenons sur tout le cycle de vie d'un produit : de la stratégie haut niveau du produit, à l'imagination et la réalisation du produit (UX/UI & Product Ownership) jusqu'à la recherche d'un moteur de croissance pérenne (Growth Marketing) </strong>
-							</p>
+							<h2 class="space-bottom-medium">Thiga is a consulting firm dedicated to Product Management</h2><br>
+
+							<p class="lead">Our busines is to provide our clients and partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to Product Ownership and Product Design (UX&UI).</p> 
+
+							<p class="lead">We are fundamentally agile, and strongly believe that agility is not just about software development: it is a mindset which allows to open organizations to more transverse collaboration, be more flexible and responsive to change, and ultimately about putting people first.</p>
+
 						</div>
 					</div>
 		
 				</div>
 			</section>
 
-			<section id="home-formations" class="strip bg-secondary-1">
+			<!--<section id="home-formations" class="strip bg-secondary-1">
 				<div class="container">
 					<div class="row clearfix">
 						<div class="col-sm-6 col-xs-12 pull-left">
@@ -82,80 +80,13 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section>-->
 
-			<section class="duplicatable-content">
-			
-				<div class="container">
-					<div class="row">
-						<div class="col-md-12 text-center">
-							<h2>L'expertise de Thiga est portée par ses 4 tribus qui fonctionnent main dans la main</h2><br><br>
-						</div>
-					</div>
-		
-					<div class="row">
-						<div class="col-sm-6">
-							<div class="feature feature-icon-large">
-								<div class="pull-left">
-									<img class="logo-foot" src="/img/logos-thiga/productstrategy-min.png" >
-								</div>
-								<div class="pull-right">
-									<h5>Stratégie produit</h5>
-									<p>
-										Définir et tester la vision d'un nouveau Produit<br>Optimiser un produit existant<br>Construire un Lab d'innovation<br>Mener des Design Sprints<br>Design Thinking &amp; Lean Startup<br>Coaching en product management<br>Mise en place d'organisation orientée "produit"</p>
-										<!--<a href="/productstrategy" target="_blank" class="btn btn-primary9 btn-filled">Site de la tribu</a>-->
-								</div>
-							</div>
-						</div>
-						
-						<div class="col-sm-6">
-							<div class="feature feature-icon-large">
-								<div class="pull-left">
-									<img class="logo-foot" src="/img/logos-thiga/productownership-min.png" >
-								</div>
-								<div class="pull-right">
-									<h5>Product Management &amp; Product Ownership</h5>
-									<p>Product Manager en immersion<br>Product Owner en immersion<br>Ateliers de roadmapping /storymapping<br>Scrum - Kanban - ScrumBan<br>SAFe<br><br><br></p>
-									<!--<a href="/productstrategy" target="_blank" class="btn btn-primary10 btn-color-PO">Site de la tribu</a>-->
-								</div>
-							</div>
-						</div>
-						
-						<div class="col-sm-6">
-							<div class="feature feature-icon-large">
-								<div class="pull-left">
-									<a href="/productdesign"><img class="logo-foot" src="/img/logos-thiga/productdesign-min.png" ></a>
-								</div>
-								<div class="pull-right">
-									<h5>Design Produit (UX &amp; UI)</h5>
-									<p>Product Designer en immersion&nbsp;<br>Design Thinking&nbsp;<br>Prototypage<br>User research<br>Tests utilisateurs&nbsp;<br>Lean UX et Agile UX</p>
-									<!--<a href="/productstrategy" target="_blank" class="btn btn-primary10 btn-color-PO">Site de la tribu</a>-->
-								</div>
-							</div>
-						</div>
-							
-						<div class="col-sm-6">
-							<div class="feature feature-icon-large">
-								<div class="pull-left">
-									<img class="logo-foot" src="/img/logos-thiga/logo-growthmarketing-min.png" >
-								</div>
-								<div class="pull-right">
-									<h5>Growth Marketing&nbsp;</h5>
-									<p>Growth Marketer en immersion&nbsp;<br>Data Analyst en immersion<br>Optimisation du tunnel AARRR<br>Mise en place de stack marketing produit<br>Stratégie de rétention<br>Optimisation du produit orientée croissance<br><br></p>
-									<!--<a href="/productstrategy" target="_blank" class="btn btn-primary10">Site de la tribu</a>-->
-								</div>
-							</div>
-						</div>
-						
-					</div>
-				</div>
-			</section>
-			
-			<section class="primary-features duplicatable-content">
+				<section class="primary-features duplicatable-content">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h2 class="text-white">Nos méthodologies</h2><br><br>
+							<h2 class="text-white">Methodologies</h2><br><br>
 						</div>
 					</div>
 			
@@ -166,7 +97,7 @@
 									<i class="icon icon-mic"></i>
 									<h6 class="text-white">Design Thinking</h6>
 									<p class="text-white">
-										Le Design Thinking est fondé sur la conviction qu'il faut une compréhension profonde des personnes pour lesquelles nous créons le produit ou le service. 
+										Start by building empathy with the people you are creating a product for. Many techniques are used to enable the team to come to a perfect understanding of who the user is and what his needs are.
 									</p>
 								</div>
 							</div>
@@ -176,7 +107,7 @@
 									<i class="icon icon-hourglass"></i>
 									<h6 class="text-white">Lean Startup & Lean UX</h6>
 									<p class="text-white">
-										Confronter le plus rapidement possible ses solutions au marché via une boucle "build-measure-learn" très courte. L'objectif étant d'atteindre le Product Market Fit. 
+										Reach the Product Marketf it by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
 									</p>
 								</div>
 							</div>
@@ -186,7 +117,8 @@
 									<i class="icon icon-heart"></i>
 									<h6 class="text-white">Agile UX</h6>
 									<p class="text-white">
-										L'intégration de l'UX dans les process de développement agiles tels que Scrum et Kanban. 
+									Unify designers and developers by introducing UX Design methods into the Agile process of Product Development.
+								
 									</p>
 								</div>
 							</div>
@@ -195,7 +127,7 @@
 									<i class="icon icon-recycle"></i>
 									<h6 class="text-white">Scrum & Kanban</h6>
 									<p class="text-white">
-										C'est une évidence aujourd'hui, mais nous n'intervenons que dans des contextes de delivery agile. 
+										Use well-known Agile Software Methodologies, such as Kanban and Scrum, to deliver quality products to the market at a high frequency.
 									</p>
 								</div>
 							</div>
@@ -205,6 +137,45 @@
 				
 				</div>
 			</section>
+
+			<section class="duplicatable-content">
+			
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12 text-center">
+							<h2>Our expertise is provided by our three tribes</h2><br><br>
+						</div>
+					</div>
+
+					<div class="row">
+		
+							<div class="col-md-4 col-sm-4 clearfix">
+									<img class="logo-foot" src="/img/logos-thiga/productstrategy-min.png" >
+									<h5>Product Strategy</h5>
+									<p>
+										Définir et tester la vision d'un nouveau Produit<br>Optimiser un produit existant<br>Construire un Lab d'innovation<br>Mener des Design Sprints<br>Design Thinking &amp; Lean Startup<br>Coaching en product management<br>Mise en place d'organisation orientée "produit"</p>
+							</div>
+							<div class="col-md-4 col-sm-4 clearfix">
+									<img class="logo-foot" src="/img/logos-thiga/productownership-min.png" >
+									<h5>Agile Product Management &amp; Product Ownership</h5>
+									<p>
+										<p>Product Manager en immersion<br>Product Owner en immersion<br>Ateliers de roadmapping /storymapping<br>Scrum - Kanban - ScrumBan<br>SAFe<br><br><br>
+									</p>
+
+							</div>
+							<div class="col-md-4 col-sm-4 clearfix">
+									<img class="logo-foot" src="/img/logos-thiga/productdesign-min.png" >
+									<h5>Product Design</h5>
+									<p>Product Designer en immersion&nbsp;<br>Design Thinking&nbsp;<br>Prototypage<br>User research<br>Tests utilisateurs&nbsp;<br>Lean UX et Agile UX
+									</p>		
+							</div>
+
+					</div>
+		
+				</div>
+			</section>
+			
+		
 		
 			<section id="home-clients" class="clients hidden-xs">
 				<div class="container">
@@ -394,10 +365,10 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-5">
-							<h1>Product Academy : Les livres</h1>
+							<h2 class="space-bottom-medium">Product Academy - vol 1</h2>
 							<p class="lead">
-								Depuis 2015, nous publions chaque année un livre sur une des problématiques phares du Product Management</p>
-							<a href="/publications" class="btn btn-primary9 btn-filled">Découvrir nos livres</a>
+								The definitive guide for elite Product Managers and Product Owners</p>
+							<a href="/publications/pa1-guide-du-product-owner" class="btn btn-primary9 btn-filled">Get the book</a>
 							
 						</div>
 					

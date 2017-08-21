@@ -27,15 +27,10 @@
 									</ul>
 								</li>-->
 
-								<li><a target="_blank" href="http://academy.thiga.fr/formations">Formations</a></li>
-								<li class="has-dropdown"><a href="#">Nos prises de parole</a>
-									<ul class="subnav">
-										<li><a href="/publications">Livres</a></li>
-										<li><a href="/conferences">Conférences & Meetups</a></li>
-										<li><a target="_blank" href="http://blog.thiga.fr">Blog</a></li>
-									</ul>
-								</li>
-								<li><a href="/devenir-thiguy">Devenir Thiguy</a></li>
+								<li><a href="/books">Books</a></li>
+								<li><a href="/conferences">Conferences</a></li>
+								<li><a href="/join">Join us</a></li>
+								<li><a target="_blank" href="http://blog.thiga.fr">Blog</a></li>
 								<li><a href="/contact">Contact</a></li>
 							</ul>
 		
