@@ -5,6 +5,7 @@
         <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/theme.css" rel="stylesheet" type="text/css" media="all"/>
         <link href="/css/custom.css" rel="stylesheet" type="text/css" media="all"/>
+        <link href="http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css" rel="stylesheet" type="text/css" media="all" />
 
         <link rel="icon" type="image/png" href="/img/logos-thiga/A-seul.png" />
         <!--[if gte IE 9]>

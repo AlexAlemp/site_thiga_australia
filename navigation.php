@@ -12,7 +12,7 @@
 					<div class="row nav-menu">
 						<div class="col-md-2 col-sm-3 columns">
 								<a href="/">
-								<img alt="logo" class="outer-logo" src="/img/logos-thiga/A-seul.png">';
+								<img alt="logo" class="outer-logo" src="/img/logos-thiga/A-seul.png">
 							</a>
 						</div>
 					
@@ -27,11 +27,11 @@
 									</ul>
 								</li>-->
 
-								<li><a href="/books">Books</a></li>
-								<li><a href="/conferences">Conferences</a></li>
+								<li><a href="/thiga">We are Thiga</a></li>
+								<li><a href="/book">Book</a></li>
+								<li><a href="/events">Events</a></li>
 								<li><a href="/join">Join us</a></li>
 								<li><a target="_blank" href="http://blog.thiga.fr">Blog</a></li>
-								<li><a href="/contact">Contact</a></li>
 							</ul>
 		
 							<ul class="social-icons text-right">

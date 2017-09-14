@@ -28,7 +28,7 @@
 			</footer>
 		</div>
 				
-		<script defer src="https://www.youtube.com/iframe_api"></script>
+		<!--<script defer src="https://www.youtube.com/iframe_api"></script>-->
 		<script defer src="/js/jquery.min.js"></script>
         <script defer src="/js/jquery.plugin.min.js"></script>
         <script defer src="/js/bootstrap.min.js"></script>

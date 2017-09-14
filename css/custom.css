@@ -3,6 +3,12 @@ a {
     text-decoration: none;
 }
 
+h2 em {
+  color: #1FBB97;
+  font-weight: 600;
+  font-style: normal;
+}
+
 .bg-primary {
     background-color: #242626 !important;
 }
@@ -26,6 +32,14 @@ a {
 .bottom-band-img{
   width: 50%;
 }
+
+/** HOME **/
+
+#bottom-home {
+  background:transparent;
+}
+
+/** END HOME **/
 
 .bottom-band{
   padding-bottom:20px;

@@ -35,32 +35,41 @@
 		<?php include('navigation.php'); ?>
 		<div class="main-container">
 
-			<header class="fullscreen-element no-pad centered-text">
-				<div class="background-image-holder parallax-background overlay">
-					<img class="background-image" alt="Background Image" src="/img/backgrounds/blur2-min.jpg">
-				</div>
-				
-				<div class="container align-vertical">
-					<div class="row">
+            <header class="fullscreen-element page-header">
+                <div class="background-image-holder parallax-background">
+                    <img class="background-image" alt="Background Image" src="/img/backgrounds/blur2-min.jpg">
+                </div>
+                
+                <div class="container">
+                    <div class="row">
 						<div class="col-md-12 text-center">
 							<img alt="logo" class="logo" src="/img/logos-thiga/logo-HD-blanc.png">
-							<h1 class="text-white">Agile Product Management & Product Design</h1>
+							<h1 class="text-white">Agile Product Management consultancy</h1>
 							
 						</div>
 					</div>
+                </div>
+                <div class="bottom-band">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12 text-center">
+								<a class="js-scroll" href="#home-mission"><span class="ion-chevron-down" style="font-size: 32px;"></span></a>
+							</div>
+						</div>
+					</div>
 				</div>
-			</header>
+            </header>
 
 			<section id="home-mission" class="pure-text-centered">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-10 col-sm-offset-1 col-md-8 col-md-offset-2 text-center">
 							
-							<h2 class="space-bottom-medium">Thiga is a consulting firm dedicated to Product Management</h2><br>
+							<h2 class="space-bottom-medium">Thiga is an international consultancy dedicated to Product Management</h2><br>
 
-							<p class="lead">Our busines is to provide our clients and partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to Product Ownership and Product Design (UX&UI).</p> 
+							<p class="lead">Our business is to provide our clients and partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to in-house Product Design (UX&UI) and Product Ownership.</p> 
 
-							<p class="lead">We are fundamentally agile, and strongly believe that agility is not just about software development: it is a mindset which allows to open organizations to more transverse collaboration, be more flexible and responsive to change, and ultimately about putting people first.</p>
+							<p class="lead">We are fundamentally agile, and strongly believe that agility is not just about software development: it is a mindset which allows to open organisations to more transverse collaboration, be more flexible and responsive to change, and ultimately about putting people first.</p>
 
 						</div>
 					</div>
@@ -86,7 +95,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<h2 class="text-white">Methodologies</h2><br><br>
+							<h2 class="text-white">Our methodologies</h2><br><br>
 						</div>
 					</div>
 			
@@ -105,9 +114,9 @@
 							<div class="col-md-3 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
 									<i class="icon icon-hourglass"></i>
-									<h6 class="text-white">Lean Startup & Lean UX</h6>
+									<h6 class="text-white">Lean Startup</h6>
 									<p class="text-white">
-										Reach the Product Marketf it by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
+										Reach the Product Market fit by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
 									</p>
 								</div>
 							</div>
@@ -115,10 +124,9 @@
 							<div class="col-md-3 col-sm-6 clearfix">
 								<div class="feature feature-icon-small">
 									<i class="icon icon-heart"></i>
-									<h6 class="text-white">Agile UX</h6>
+									<h6 class="text-white">Lean UX</h6>
 									<p class="text-white">
-									Unify designers and developers by introducing UX Design methods into the Agile process of Product Development.
-								
+									(to be changed)Reach the Product Market fit by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
 									</p>
 								</div>
 							</div>
@@ -131,8 +139,6 @@
 									</p>
 								</div>
 							</div>
-
-		
 					</div>
 				
 				</div>
@@ -143,7 +149,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-12 text-center">
-							<h2>Our expertise is provided by our three tribes</h2><br><br>
+							<h2 class="space-bottom-large">Our expertise is provided by our <em>three tribes</em></h2>
 						</div>
 					</div>
 
@@ -181,14 +187,14 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
-							<p class="lead">Depuis notre création, nous avons accompagné une cinquantaine de clients dans la création et la croissance de leurs produits numériques<br></p>
+							<h2 class="space-bottom-large">We have built <em>amazing products</em> together</h2>
 						</div>
 					</div>
 					
 					<div class="row client-row">
 						<div class="row-wrapper">
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/voyages-sncf.png">
+								<img alt="client" src="/img/clients/clubmed.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
@@ -196,46 +202,7 @@
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/radio-france-min.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/sarenza-min.png">
-							</div>
-						</div>
-					</div>
-					
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/lemonde-min.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
 								<img alt="client" src="/img/clients/axa-min.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/coyote.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/betclic.png">
-							</div>
-						</div>
-					</div>
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/bva.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/clubmed.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/eh.jpg">
 							</div>
 						
 							<div class="col-sm-3 text-center">
@@ -246,11 +213,11 @@
 					<div class="row client-row">
 						<div class="row-wrapper">
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/sacem.png">
+								<img alt="client" src="/img/clients/ti.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/solocal.png">
+								<img alt="client" src="/img/clients/photobox.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
@@ -258,109 +225,43 @@
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/fortuneo.png">
-							</div>
-						</div>
-					</div>
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/btel.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/docapost.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
 								<img alt="client" src="/img/clients/europassistance.png">
 							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/sncf.png">
-							</div>
 						</div>
 					</div>
 					<div class="row client-row">
 						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/wynd.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/yr.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/fluo.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/ti.png">
-							</div>
-						</div>
-					</div>
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/finexkap.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/m6.png">
-							</div>
-						
 							<div class="col-sm-3 text-center">
 								<img alt="client" src="/img/clients/adp.png">
 							</div>
 						
 							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/younitedcredit.png">
+								<img alt="client" src="/img/clients/lv.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="/img/clients/hermes.png">
+							</div>
+						
+							<div class="col-sm-3 text-center">
+								<img alt="client" src="/img/clients/parrot.png">
 							</div>
 						</div>
 					</div>
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/photobox.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/sfr.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/pmu.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/engie.png">
-							</div>
-						</div>
-					</div>
-					<div class="row client-row">
-						<div class="row-wrapper">
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/johnpaul.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/lotsys.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/molotov.png">
-							</div>
-						
-							<div class="col-sm-3 text-center">
-								<img alt="client" src="/img/clients/michelin.gif">
+					
+				</div>
+				<div id="bottom-home" class="bottom-band">
+					<div class="container">
+						<div class="row">
+							<div class="col-sm-12" style="text-align:right;">
+								<a class="js-scroll" href="#home-mission"><span class="ion-chevron-up" style="font-size: 32px;"></span></a>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>
 
-			<section id="home-livres" class="feature-divider">
+			<!--<section id="home-livres" class="feature-divider">
 			
 				<div class="container">
 					<div class="row">
@@ -377,7 +278,7 @@
 						</div>
 					</div>
 				</div>
-			</section>
+			</section>-->
 		</div>
 			
 		

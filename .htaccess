@@ -10,38 +10,14 @@
 RewriteEngine On
 Options +FollowSymlinks 
 
-# Études de cas 
-RewriteRule edc/design-sprints-axa edc-axa-france.php [L]
-
-# Product Strategy
-RewriteRule ^productstrategy/$ home-ps.php [L]
-RewriteRule ^productstrategy/offre-idee-mvp$ offre-idee-mvp.php [L]
-RewriteRule ^productstrategy/offre-designsprint$ offre-designsprint.php [L]
-RewriteRule ^productstrategy/offre-optimisation-produit$ offre-optimisation-produit.php [L]
-RewriteRule ^productstrategy/offre-organisation-produit$ offre-organisation-produit.php [L]
-
-
-# Product Strategy
-RewriteRule ^growthmarketing$ home-growthmarketing.php [L]
-
-
-# Product Design
-RewriteRule ^productdesign$ home-productdesign.php [L]
-
-
-# Product Ownership
-RewriteRule ^productownership$ home-productownership.php [L]
 
 # Product Academy
 
-RewriteRule ^books/pa1-guide-du-product-owner$ pa1.php [L]
-RewriteRule ^books/pa2-guide-du-growth-marketing$ pa2.php [L]
-RewriteRule ^books/pa3-organisations-produit$ pa3.php [L]
-RewriteRule ^books$ pa1.php [L]
+RewriteRule ^book$ book.php [L]
 
 # Conférences
 
-RewriteRule ^conferences$ conferences.php [L]
+RewriteRule ^events$ events.php [L]
 
 # Join
 
