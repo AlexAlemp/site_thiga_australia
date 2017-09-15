@@ -18,14 +18,6 @@
 					
 						<div class="col-md-10 col-sm-9 columns">
 							<ul class="menu">
-								<!--<li class="has-dropdown"><a href="#">Tribus</a>
-									<ul class="subnav">
-										<li><a href="/productstrategy">Product Strategy</a></li>
-										<li><a href="/productownership">Product Ownership</a></li>
-										<li><a href="/growthmarketing">Growth Marketing</a></li>
-										<li><a href="/productdesign">Product Design</a></li>
-									</ul>
-								</li>-->
 
 								<li><a href="/thiga">We are Thiga</a></li>
 								<li><a href="/book">Book</a></li>

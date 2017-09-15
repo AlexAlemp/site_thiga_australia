@@ -29,7 +29,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-6 col-md-offset-3 col-sm-8 col-sm-offset-2 text-center">
-                            <h1 class="text-white">Envie de nous confier une mission ou tout simplement de parler de Product Management ?&nbsp;</h1>
+                            <h1 class="text-white">Interested in working together ? Get in touch with us.</h1>
                         </div>
                     </div>
                     
@@ -37,17 +37,17 @@
                         <form class="email-form">
                             <div class="row">
                                 <div class="col-md-3 col-sm-4 col-sm-offset-2 col-md-offset-3">
-                                    <input class="form-name validate-required" type="text" placeholder="Votre nom" name="name">
+                                    <input class="form-name validate-required" type="text" placeholder="Name" name="name">
                                 </div>
                             
                                 <div class="col-md-3 col-sm-4">
-                                    <input class="form-email validate-required validate-email" type="text" placeholder="Votre mail" name="email">
+                                    <input class="form-email validate-required validate-email" type="text" placeholder="Mail" name="email">
                                 </div>
                             </div>
                         
                             <div class="row">
                                 <div class="col-md-6 col-sm-8 col-sm-offset-2 col-md-offset-3 text-center">
-                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Votre message"></textarea>
+                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Message"></textarea>
                                     <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
                                     <div class="form-success">
                                         <span class="text-white">Message sent !</span>
@@ -70,7 +70,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a target="_blank" href="https://www.linkedin.com/company-beta/4998677/">
+                                        <a target="_blank" href="https://www.linkedin.com/showcase/11234225/">
                                             <i class="icon social_linkedin"></i>
                                         </a>
                                     </li>
@@ -99,7 +99,7 @@
 				<div class="container">
 					<div class="row">
 							<div class="col-sm-12 text-center">
-								<h2>Nos bureaux<br><br>
+								<h2>Our offices<br><br>
 								</h2>
 							</div>
 					</div>
