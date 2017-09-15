@@ -49,7 +49,7 @@
 								</li>
 
 								<li>
-									<a target="_blank" href="https://www.linkedin.com/company-beta/4998677/">
+									<a target="_blank" href="https://www.linkedin.com/showcase/11234225/">
 										<i class="icon social_linkedin"></i>
 									</a>
 								</li>

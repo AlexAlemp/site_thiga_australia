@@ -64,3 +64,27 @@ Header append Vary User-Agent env=!dont-vary
    #Header unset Cache-Control
   </FilesMatch>
 </IfModule>
+
+<IfModule mod_version.c>
+      <IfModule mod_filter.c>
+        <IfVersion >= 2.4>
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'text/html'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'text/plain'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'text/xml'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'text/css'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'text/javascript'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'application/atom+xml'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'application/rss+xml'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'application/xml'"
+                FilterProvider COMPRESS  DEFLATE "%{Content_Type} = 'application/javascript'"
+        </IfVersion>
+        <IfVersion < 2.4>
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $text/html
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $text/plain
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $text/xml
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $text/css
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $text/javascript
+                FilterProvider COMPRESS DEFLATE resp=Content-Type $application/javascript
+        </IfVersion>
+      </IfModule>
+</IfModule>
