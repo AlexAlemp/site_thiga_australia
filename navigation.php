@@ -31,7 +31,7 @@
 								<li><a href="/book">Book</a></li>
 								<li><a href="/events">Events</a></li>
 								<li><a href="/join">Join us</a></li>
-								<li><a target="_blank" href="http://blog.thiga.fr">Blog</a></li>
+								<li><a target="_blank" href="http://blog.thiga.com.au">Blog</a></li>
 							</ul>
 		
 							<ul class="social-icons text-right">
