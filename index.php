@@ -146,35 +146,51 @@
 
 			<section class="duplicatable-content">
 			
-				<div class="container">
+				<div class="container space-bottom-medium">
 					<div class="row">
 						<div class="col-md-12 text-center">
 							<h2 class="space-bottom-large">Our expertise is provided by our <em>three tribes</em></h2>
 						</div>
 					</div>
 
-					<div class="row">
+					<div class="row text-center">
 		
 							<div class="col-md-4 col-sm-4 clearfix">
-									<img class="logo-foot" src="/img/logos-thiga/productstrategy-min.png" >
-									<h5>Product Strategy</h5>
-									<p>
-										Définir et tester la vision d'un nouveau Produit<br>Optimiser un produit existant<br>Construire un Lab d'innovation<br>Mener des Design Sprints<br>Design Thinking &amp; Lean Startup<br>Coaching en product management<br>Mise en place d'organisation orientée "produit"</p>
+								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productstrategy-min.png">
+									<span class="align-left">
+										<h4 class="space-bottom-xsmall">Consulting assignements</h4>
+										<h4 class="space-bottom-small">In-house <strong>Product Strategist</strong></h4>
+										<p>
+										Lean Startup, Design Sprint, Design Thinking</p>
+										<p>
+										<em>Internal and external analysis, benchmark, brainstorming, Lean canvas, strengths and pain points, design value proposition, etc.</em></p>
+									</span>
 							</div>
 							<div class="col-md-4 col-sm-4 clearfix">
-									<img class="logo-foot" src="/img/logos-thiga/productownership-min.png" >
-									<h5>Agile Product Management &amp; Product Ownership</h5>
-									<p>
-										<p>Product Manager en immersion<br>Product Owner en immersion<br>Ateliers de roadmapping /storymapping<br>Scrum - Kanban - ScrumBan<br>SAFe<br><br><br>
+								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productdesign-min.png" >
+								<span class="align-left">
+									<h4 class="space-bottom-xsmall">In-house <strong>UX-Designer</strong></h4>
+									<h4 class="space-bottom-small">In-house <strong>UI-Designer</strong></h4>
+									<p>Lean UX, Design Sprint, Design Thinking, Agile
 									</p>
+									<p><em>Warm up, users interview, personas, customer journey, sketching, wireframes, prototype, users tests, experience map, etc.</em>
+									</p>
+								</span>
+							</div>
+							<div class="col-md-4 col-sm-4 clearfix">
+								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productownership-min.png" >
+								<span class="align-left">
+									<h4 class="space-bottom-xsmall">In-house <strong>Product Manager</strong></h4>
+									<h4 class="space-bottom-small">In-house <strong>Product Owner</strong></h4>
+									<p>
+										Agile, Scrum, Kanban, SAFe
+									</p>
+									<p><em>Story mapping, user story, product backlog, poker planning, prioritisation, stand up, sprint, showcase, retro, burndown, etc.</em>
+									</p>
+								</span>
 
 							</div>
-							<div class="col-md-4 col-sm-4 clearfix">
-									<img class="logo-foot" src="/img/logos-thiga/productdesign-min.png" >
-									<h5>Product Design</h5>
-									<p>Product Designer en immersion&nbsp;<br>Design Thinking&nbsp;<br>Prototypage<br>User research<br>Tests utilisateurs&nbsp;<br>Lean UX et Agile UX
-									</p>		
-							</div>
+							
 
 					</div>
 		
@@ -261,27 +277,40 @@
 				</div>
 			</section>
 
-			<!--<section id="home-livres" class="feature-divider">
+			<section id="home-livres" class="feature-divider">
 			
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-5">
-							<h2 class="space-bottom-medium">Product Academy - vol 1</h2>
+							<h2 class="space-bottom-medium">Product Academy <br/><strong> A guide to agile Product Management</strong></h2>
 							<p class="lead">
-								The definitive guide for elite Product Managers and Product Owners</p>
-							<a href="/publications/pa1-guide-du-product-owner" class="btn btn-primary9 btn-filled">Get the book</a>
+								Written by our Thiguys, this book will give you the best practices to <strong>build the right product and build it right</strong>.</p>
+							<a href="/book" class="btn btn-primary9 btn-filled">Get the book</a>
 							
 						</div>
 					
 						<div class="col-sm-7" data-scroll-reveal="enter from bottom and move 100px">
-							<img alt="App Screenshot" src="/img/product-academy/product-academy-all-min.png">
+							<img alt="App Screenshot" src="/img/product-academy/pa1transparent-min-2.png">
 						</div>
 					</div>
 				</div>
-			</section>-->
+			</section>
+			<section class="strip bg-secondary-1">
+                <div class="container">
+                    <div class="row clearfix">
+                        <div class="col-sm-6 pull-left col-xs-11">
+                            <h3 class="text-white"><strong>Want to get in touch with us ?</strong></h3>
+                        </div>
+                        
+                        <div class="col-sm-4 col-xs-12 pull-right text-right">
+                            <a  href="/contact" class="btn btn-primary btn-white">Contact us</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
 		</div>
 			
 		
-<?php include('footer-alternate.php'); ?>
+<?php include('footer.php'); ?>
 
 </html>		

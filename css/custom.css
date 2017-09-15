@@ -9,6 +9,20 @@ h2 em {
   font-style: normal;
 }
 
+/** CLASSES GÉNÉRIQUES **/ 
+
+.space-bottom-xsmall{
+  margin-bottom: 10px !important;
+}
+
+.space-bottom-small{
+  margin-bottom: 20px !important;
+}
+
+.align-left{
+  text-align: left;
+}
+
 .bg-primary {
     background-color: #242626 !important;
 }
@@ -39,7 +53,19 @@ h2 em {
   background:transparent;
 }
 
+.logo-expertise{
+  width: 120px;
+  }
+
 /** END HOME **/
+
+/** BOOK **/ 
+
+#book-page .overlay-bar .menu li a, #book-page .overlay-bar .social-icons li a {
+    color: #333333;
+}
+
+/** END BOOK **/ 
 
 .bottom-band{
   padding-bottom:20px;
@@ -123,120 +149,6 @@ footer.short-2 span {
 }
 
 /** END INSTAGRAM FEED **/
-
-
-/****************    PERSONNALISATION DES COULEURS PRODUCT STRATEGY *****************/
-
-.ps .feature-icon-large i {
-  color : #16A9DB;
-}
-
-.ps .bg-secondary-1 {
-    background-color: #16A9DB !important;
-}
-
-.ps .btn-primary9 {
-    border: 2px solid #16A9DB;
-    background: #16A9DB;
-    color: #ffffff;
-}
-
-.ps .btn-primary9:hover {
-    background: none;
-    color: #16A9DB;
-    border-color: #16A9DB;
-}
-
-.ps .text-primary {
-    color: #16A9DB;
-}
-
-/****************  END PERSONNALISATION DES COULEURS PRODUCT STRATEGY *****************/
-
-/****************    PERSONNALISATION DES COULEURS GROWTH MARKETING *****************/
-
-.growth_marketing .feature-icon-large i {
-  color : #EF5B4F;
-}
-
-.growth_marketing  .bg-secondary-1 {
-    background-color: #EF5B4F !important;
-}
-
-.growth_marketing  .btn-primary9 {
-    border: 2px solid #EF5B4F;
-    background: #EF5B4F;
-    color: #ffffff;
-}
-
-.growth_marketing  .btn-primary9:hover {
-    background: none;
-    color: #EF5B4F;
-    border-color: #EF5B4F;
-}
-
-.growth_marketing  .text-primary {
-    color: #EF5B4F;
-}
-
-/****************  END PERSONNALISATION DES COULEURS PRODUCT STRATEGY *****************/
-
-/****************    PERSONNALISATION DES COULEURS PRODUCT DESIGN *****************/
-
-.product_design .feature-icon-large i {
-  color : #6068D9;
-}
-
-.product_design  .bg-secondary-1 {
-    background-color: #6068D9 !important;
-}
-
-.product_design  .btn-primary9 {
-    border: 2px solid #6068D9;
-    background: #6068D9;
-    color: #ffffff;
-}
-
-.product_design .btn-primary9:hover {
-    background: none;
-    color: #6068D9;
-    border-color: #6068D9;
-}
-
-.product_design  .text-primary {
-    color: #6068D9;
-}
-
-/****************  END PERSONNALISATION DES COULEURS PRODUCT DESIGN  *****************/
-
-
-/****************    PERSONNALISATION DES COULEURS PRODUCT OWNERSHIP *****************/
-
-.product_ownership .feature-icon-large i {
-  color : #1FBB97;
-}
-
-.product_ownership  .bg-secondary-1 {
-    background-color: #1FBB97 !important;
-}
-
-.product_ownership  .btn-primary9 {
-    border: 2px solid #1FBB97;
-    background: #1FBB97;
-    color: #ffffff;
-}
-
-.product_ownership .btn-primary9:hover {
-    background: none;
-    color: #1FBB97;
-    border-color: #1FBB97;
-}
-
-.product_ownership  .text-primary {
-    color: #1FBB97;
-}
-
-/****************  END PERSONNALISATION DES COULEURS PRODUCT OWNERSHIP  *****************/
 
 .stat-bubble {
     margin: 0px auto;
@@ -394,11 +306,7 @@ p.lead2 {
   background-color: none;
 }
 
-.logo-foot{
-  width: 93px;
-  height: 49px;
-  margin-bottom: 30px;
-  }
+
 
   .logo-footh{
   max-width: 120px;

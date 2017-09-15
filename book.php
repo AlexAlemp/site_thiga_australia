@@ -49,7 +49,7 @@
 
     </head>
 
-    <body>
+    <body id="book-page">
     	<?php include('gtm-body.php'); ?>
 		<?php include('navigation.php'); ?>
 		
@@ -151,6 +151,6 @@
 
 		</div>
 		
-		<?php include('footer-alternate.php'); ?>
+		<?php include('footer.php'); ?>
 </html>
 				

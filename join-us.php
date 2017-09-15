@@ -359,6 +359,6 @@
             </section>
         </div>
 		
-<?php include('footer-alternate.php'); ?>
+<?php include('footer.php'); ?>
 
 </html>		

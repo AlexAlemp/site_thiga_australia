@@ -23,6 +23,10 @@ RewriteRule ^events$ events.php [L]
 
 RewriteRule ^join$ join-us.php [L]
 
+# Join
+
+RewriteRule ^contact$ contact.php [L]
+
 
 # Si un fichier n'existe pas, essayer de trouver son équivalent PHP (avec le même nom)
 #RewriteCond %{REQUEST_FILENAME} !-f
