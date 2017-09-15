@@ -48,12 +48,12 @@
                             <div class="row">
                                 <div class="col-md-6 col-sm-8 col-sm-offset-2 col-md-offset-3 text-center">
                                     <textarea class="form-message validate-required" rows="7" name="message" placeholder="Votre message"></textarea>
-                                    <button type="button" class="btn btn-primary9 btn-filled" onclick="postDataToWebhook()" value="Send Form">Envoyer</button>
+                                    <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
                                     <div class="form-success">
-                                        <span class="text-white">Message envoyé !</span>
+                                        <span class="text-white">Message sent !</span>
                                     </div>
                                     <div class="form-error">
-                                        <span class="text-white">Merci de remplir tous les champs</span>
+                                        <span class="text-white">Please fill the form</span>
                                     </div>
                                 </div>  
                             </div>
@@ -132,30 +132,6 @@
 		</div>
 		
 <?php include('footer.php'); ?>
-
-<script>                        
-var postDataToWebhook = function(){    
-  //url to your webhook
-  var webHookUrl="https://hooks.slack.com/services/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"; 
-  var contact = $('.form-name').val();
-  var email = $('.form-email').val(); 
-  var message = $('.form-message').val();
-    
-  if(!contact){$('.form-error').show();return;}
-  
-  //https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
-  var oReq = new XMLHttpRequest();
-  var payload={text:'Nouvelle prise de contact sur thiga.fr',attachments: [
-        {title:"Message de "+contact+" ("+email+")", text:message||'pas de message'}]};
-  
-//register method called after data has been sent method is executed
-  oReq.open("POST", webHookUrl,true);
-  oReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
-  oReq.send(JSON.stringify(payload));
-  $('.form-success').show();
-    $('.form-error').hide();
-};
-     </script>
 
 </html>
 

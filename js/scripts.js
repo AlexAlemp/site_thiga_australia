@@ -51,17 +51,42 @@ $(document).ready(function(){
 	
 	$('.inner-link').smoothScroll({offset: -96, speed: 800});
 
-		$('.js-scroll').on('click', function() { // Au clic sur un élément
+	$('.js-scroll').on('click', function() { // Au clic sur un élément
 			var page = $(this).attr('href'); // Page cible
 			var speed = 750; // Durée de l'animation (en ms)
 			$('html, body').animate( { scrollTop: $(page).offset().top }, speed ); // Go
 			return false;
 		});
+
 	
 	// Mobile Toggle
 	
 	$('.mobile-toggle').click(function(){
 		$('nav').toggleClass('open-nav');
+	});
+
+	// Contact form 
+
+	$('#contactFormSubmitButton').click(function(){    
+  //url to your webhook
+	  var webHookUrl="https://hooks.slack.com/services/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"; 
+	  var contact = $('.form-name').val();
+	  var email = $('.form-email').val(); 
+	  var message = $('.form-message').val();
+    
+  	if(!contact){$('.form-error').show();return;}
+  
+  	//https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
+  	var oReq = new XMLHttpRequest();
+  	var payload={text:'New contact on thiga.com.au',attachments: [
+        {title:"Message from "+contact+" ("+email+")", text:message||'no message'}]};
+  
+	//register method called after data has been sent method is executed
+  	oReq.open("POST", webHookUrl,true);
+  	oReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
+  	oReq.send(JSON.stringify(payload));
+  	$('.form-success').show();
+    $('.form-error').hide();
 	});
 	
 	// Fullscreen nav toggle
