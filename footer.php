@@ -33,7 +33,8 @@
 								Sydney, NSW 2039<br><br>
 								<strong>Thiga France</strong><br>
 								156 boulevard Haussmann<br>
-								75008, Paris<br><br>
+								75008, Paris<br>
+								<a href="http://thiga.fr" target="_blank">thiga.fr</a>
 							</span>
 						</div>
 					</div>

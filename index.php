@@ -37,7 +37,7 @@
 
             <header class="fullscreen-element page-header">
                 <div class="background-image-holder parallax-background">
-                    <img class="background-image" alt="Background Image" src="/img/backgrounds/blur2-min.jpg">
+                    <img class="background-image" alt="Background Image" src="/img/backgrounds/sydney.jpg">
                 </div>
                 
                 <div class="container">
@@ -53,7 +53,7 @@
 					<div class="container">
 						<div class="row">
 							<div class="col-sm-12 text-center">
-								<a class="js-scroll" href="#home-mission"><span class="ion-chevron-down" style="font-size: 32px;"></span></a>
+								<a class="js-scroll" href="#home-mission"><span class="ion-chevron-down text-white" style="font-size: 32px;"></span></a>
 							</div>
 						</div>
 					</div>
@@ -77,21 +77,7 @@
 				</div>
 			</section>
 
-			<!--<section id="home-formations" class="strip bg-secondary-1">
-				<div class="container">
-					<div class="row clearfix">
-						<div class="col-sm-6 col-xs-12 pull-left">
-							<h3 class="text-white"><strong></strong>Initiez-vous au Product Management</h3>
-						</div>
-						
-						<div class="col-sm-4 col-xs-12 pull-right text-right">
-							<a target="_blank" href="http://academy.thiga.fr/formations" class="btn btn-primary btn-white">Voir le catalogue de formations</a>
-						</div>
-					</div>
-				</div>
-			</section>-->
-
-				<section class="primary-features duplicatable-content">
+			<section class="primary-features duplicatable-content">
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-12 text-center">
