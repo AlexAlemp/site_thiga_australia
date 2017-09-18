@@ -30,51 +30,13 @@
                     <div class="row">
                         <div class="col-sm-9">
                             <span class="text-white alt-font">Becoming a Thiguy</span>
-                            <h1 class="text-white">Who are we ?</h1>
-                            <p class="text-white lead"> Créée en 2014 avec la volonté de faire bouger le monde de la création de Produits numériques, Thiga est devenu un acteur majeur du Product Management grace à ses Thiguys, aux livres publiés, au blog et aux conférences.</p><p class="text-white lead"> Être un Thiguy, c'est travailler dans une société aux convictions et aux valeurs fortes mais aussi prendre part à une aventure.</p>
+                            <h1 class="text-white">About our culture</h1>
+                            <!--<p class="text-white lead">At Thiga we know that the value of the company is it's consultants</p>-->
                         </div>
                     </div>
                 </div>
             </header>
             
-
-            <section id="valeurs" class="duplicatable-content pure-text">
-				<div class="container">
-					<div class="row">
-						<div class="col-sm-12 text-center">
-							<h2>Our values</h2><br><br>
-						</div>
-					</div>
-					
-					<div class="row">
-						<div class="col-sm-3">
-							<h6>People first</h6>
-							<p>
-								You grow. We grow. Thiga puts People First, always. With a thrust on personal development Thiga provides a mutual atmosphere of respect, trust, responsibility and accountability that helps foster great ideas and innovation.
-							</p>
-						</div>
-						
-						<div class="col-sm-3">
-							<h6>Quality</h6>
-							<p>
-							    At Thiga Quality Without Compromise is the Mantra. Be it work, be it personal interactions, be it the surroundings or be it the self, at Thiga 100% is the norm.
-							</p>
-						</div>
-						
-						<div class="col-sm-3">
-							<h6>Sharing knowledge</h6>
-							<p>
-								Thiga believes in sharing knowledge. The more you share it, the more it grows. With mandatory monthly sessions of knowledge exchange. Thiga ensures a flow of knowledge from country to country, unit to unit and employee to employee.
-						</div>
-						<div class="col-sm-3">
-							<h6>Humor</h6>
-							<p>
-								Being excellent at what we do requires a continuing involvement, so we think not taking ourselves too seriously is vital.
-							</p>
-						</div>
-					</div>
-				</div>
-			</section>
 
             <section class="side-image clearfix">
 				<div class="image-container col-md-5 col-sm-4 pull-left">
@@ -88,7 +50,7 @@
 						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix">
 							<h2>Why join us ?</h2><br/>
 							<p class="lead">
-								Depuis le premier jour, nous avons tout fait pour construire une société accueillante et dynamique : un coeur de startup dans une enveloppe de cabinet de conseil.
+								From day one, we have done everything to build a welcoming and dynamic venture : the heart of a startup in the shape of a consulting company.
 							</p>
 						
 							<div class="row">
@@ -100,7 +62,7 @@
 										<div class="feature-text">
 											<h6>High-quality missions</h6>
 											<p>
-												Les thiguys travaillent tous sur des produits numériques B2B et B2C dans des contextes agiles.  
+												We work on cutting-edge B2B and B2C digital products in agile environments.   
 											</p>
 										</div>
 									</div>
@@ -114,7 +76,7 @@
 										<div class="feature-text">
 											<h6>Being part of a community</h6>
 											<p>
-												Plus qu'un cabinet de conseil, Thiga est une communauté de passionnés de Product Management. Nous nous réunissons tous plusieurs fois par mois.
+												More than just a consultancy, Thiga is a community of Product Management passionate people. Several time a month, we meet to improve our Product Management skills. 
 											</p>
 										</div>
 									</div>
@@ -128,9 +90,9 @@
 											<i class="icon icon-mobile"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Become a full-stack Product Manager !</h6>
+											<h6>Full-stack Product Management !</h6>
 											<p>
-												Chaque Thiguy peut rejoindre une ou plusieurs tribus et progresser sur toutes les compétences du Product Management.
+												By joining Thiga, you will benefit from the knowledge of our different tribes. The main objective? Becoming a full-stack Product Manager.
 											</p>
 										</div>
 									</div>
@@ -144,7 +106,7 @@
 										<div class="feature-text">
 											<h6>Embark on a adventure</h6>
 											<p>
-												Les Thiguys sont tous des contributeurs à la vie de la société et à son rayonnement (blog, livres, conférences).
+												Thiga Australia is a young venture with an innovative market positioning. Join-us to be part of an entrepreneurial adventure.
 											</p>
 										</div>
 									</div>
@@ -171,11 +133,11 @@
             </section>
            
 
-            <section class="video-inline">
+            <!--<section class="video-inline">
 				<div class="container">
 					<div class="row">
 						<div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-							<h2 class="space-bottom-large">À la rencontre des Thiguys</h2>
+							<h2 class="space-bottom-large">Meet the team</h2>
 							
 						</div>
 					</div>
@@ -226,7 +188,7 @@
 					</div>
 					
 						
-					<!--<div class="row">
+					<div class="row">
 						<div class="col-md-6 col-sm-12">
                             <div class="media-holder">
                                 <!--<iframe width="100%" height="315" src="https://www.youtube.com/embed/sBm6uUMRz-w?showinfo=0&amp;rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen=""> </iframe>
@@ -238,9 +200,9 @@
                                 <iframe width="560" height="315" src="https://www.youtube.com/embed/jreCOKkYBt8?rel=0&amp;modestbranding=1" frameborder="0" allowfullscreen></iframe>
                             </div>
                         </div>
-					</div>-->
+					</div>
 				</div>
-			</section>
+			</section>-->
 
             
             <section class="duplicatable-content">
@@ -278,7 +240,7 @@
                         <div class="col-md-3 col-sm-6">
                             <div class="stat feature">
                                 <div class="stat-bubble">
-                                    <span>10</span>
+                                    <span>4</span>
                                 </div>
                                 <h3>Open positions</h3> 
                             </div>
@@ -296,67 +258,7 @@
         
                 </div>
             </section>
-            
-           
-            
-           <!-- <section class="team-1">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-md-8 col-md-offset-2 text-center">
-                            <h1>Les fondateurs et associés</h1>
-                        </div>
-                    </div>
-                    
-                    <div class="row space-bottom-large">
-                        <div class="col-sm-4">
-                            <div class="team-1-member">
-                                <img alt="Team Member" src="/img/team/hugo-min.png">
-                                <h2>Hugo Geissmann</h2>
-                                <h5>Fondateur &amp; CEO</h5>
-                                <ul class="social-icons">
-								<li>
-									<a href="https://www.linkedin.com/in/alexandre-irrmann-tézé-70721114/" target="_blank">
-										<i class="icon social_linkedin"></i>
-									</a>
-								</li></ul>
-                            </div>
-                        </div>
-                        
-                        <div class="col-sm-4">
-                            <div class="team-1-member">
-                                <img alt="Team Member" src="/img/team/AIT-4-min.png">
-                                <h2>Alexandre Irrmann-Tézé</h2>
-                                <h5>Fondateur &amp; MD</h5>
-                                <ul class="social-icons">
-								<li>
-									<a href="https://www.linkedin.com/in/alexandre-irrmann-tézé-70721114/" target="_blank">
-										<i class="icon social_linkedin"></i>
-									</a>
-								</li></ul>
-                            </div>
-                        </div>
-                        
-                        <div class="col-sm-4">
-                            <div class="team-1-member">
-                                <img alt="Team Member" src="/img/team/stephane-min.png">
-                                <h2>Stéphane Coussement</h2>
-                                <h5>Associé &amp; COO</h5>
-                                <ul class="social-icons">
-								<li>
-									<a href="https://www.linkedin.com/in/alexandre-irrmann-tézé-70721114/" target="_blank">
-										<i class="icon social_linkedin"></i>
-									</a>
-								</li></ul>
-                            </div>
-                        </div>
-                    </div>  
-                </div>
-            </section>-->
-             <section class="instagram-feed">
-                <div class="instafeed" data-user-name="thigafr">
-                    <ul></ul>
-                </div>
-            </section>
+
         </div>
 		
 <?php include('footer.php'); ?>
