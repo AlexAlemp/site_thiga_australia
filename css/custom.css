@@ -97,6 +97,10 @@ footer.short-2 span {
     vertical-align: top;
   }
 
+footer .small-text {
+  font-size:80%;
+}
+
 /** END FOOTER **/
 
 .fullscreen-nav-container {

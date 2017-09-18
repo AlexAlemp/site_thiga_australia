@@ -112,7 +112,8 @@
 									<i class="icon icon-heart"></i>
 									<h6 class="text-white">Lean UX</h6>
 									<p class="text-white">
-									(to be changed)Reach the Product Market fit by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
+									Lean UX describes methods and their practical application in dynamic environment of a Lean Startup. Lean UX unites product development and business.
+
 									</p>
 								</div>
 							</div>
@@ -149,7 +150,7 @@
 										<p>
 										Lean Startup, Design Sprint, Design Thinking</p>
 										<p>
-										<em>Internal and external analysis, benchmark, brainstorming, Lean canvas, strengths and pain points, design value proposition, etc.</em></p>
+										<em>Internal and external analysis, benchmark, brainstorming, Lean canvas, strengths and pain points, design value proposition.</em></p>
 									</span>
 							</div>
 							<div class="col-md-4 col-sm-4 clearfix">
@@ -159,7 +160,7 @@
 									<h4 class="space-bottom-small">In-house <strong>UI-Designer</strong></h4>
 									<p>Lean UX, Design Sprint, Design Thinking, Agile
 									</p>
-									<p><em>Warm up, users interview, personas, customer journey, sketching, wireframes, prototype, users tests, experience map, etc.</em>
+									<p><em>Warm up, users interview, personas, customer journey, sketching, wireframes, prototype, users tests, experience map.</em>
 									</p>
 								</span>
 							</div>
@@ -171,7 +172,7 @@
 									<p>
 										Agile, Scrum, Kanban, SAFe
 									</p>
-									<p><em>Story mapping, user story, product backlog, poker planning, prioritisation, stand up, sprint, showcase, retro, burndown, etc.</em>
+									<p><em>Story mapping, user story, product backlog, poker planning, prioritisation, stand up, sprint, showcase, retro, burndown.</em>
 									</p>
 								</span>
 

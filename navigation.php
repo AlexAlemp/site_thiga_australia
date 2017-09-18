@@ -19,7 +19,7 @@
 						<div class="col-md-10 col-sm-9 columns">
 							<ul class="menu">
 
-								<li><a href="/thiga">We are Thiga</a></li>
+								<li><a href="/we-are-thiga">We are Thiga</a></li>
 								<li><a href="/book">Book</a></li>
 								<li><a href="/events">Events</a></li>
 								<li><a href="/join">Join us</a></li>

@@ -40,7 +40,7 @@
 					</div>
 					<div class="row">
 						<div class="col-sm-12">
-							<span class="text-white sub">
+							<span class="text-white sub small-text">
 								<em><a href="https://www.guenievre-photographer.com/" target="_blank">Photo credit : Guenievre Lasalarie photographer</a></em>
 							</span>
 						</div>

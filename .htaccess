@@ -23,6 +23,11 @@ RewriteRule ^events$ events.php [L]
 
 RewriteRule ^join$ join-us.php [L]
 
+
+# We are thiga
+
+RewriteRule ^we-are-thiga$ thiga.php [L]
+
 # Join
 
 RewriteRule ^contact$ contact.php [L]

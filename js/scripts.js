@@ -30,7 +30,7 @@ $(document).ready(function(){
 	
 	// Detect logo dimensions and add correct class
 	
-	var logoImage = $('.top-bar .logo:first-of-type');
+	var logoImage = $('.top-bar .outer-logo:first-of-type');
 	
 	var theImage = new Image();
 	theImage.src = logoImage.attr("src");
