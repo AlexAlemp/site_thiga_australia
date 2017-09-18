@@ -4,7 +4,7 @@
 					<div class="row">
 						<div class="col-sm-3">
 							<span class="text-white sub">© Copyright 2017 THIGA<br><br>
-								<strong>contact@thiga.com.au</strong>
+								<strong>contact@thiga.com.au</strong><br/><br/>
 							</span>
 						</div>
 						<div class="col-sm-3">
@@ -35,6 +35,13 @@
 								156 boulevard Haussmann<br>
 								75008, Paris<br>
 								<a href="http://thiga.fr" target="_blank">thiga.fr</a>
+							</span>
+						</div>
+					</div>
+					<div class="row">
+						<div class="col-sm-12">
+							<span class="text-white sub">
+								<em><a href="https://www.guenievre-photographer.com/" target="_blank">Photo credit : Guenievre Lasalarie photographer</a></em>
 							</span>
 						</div>
 					</div>
