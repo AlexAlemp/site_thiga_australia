@@ -17,7 +17,7 @@
 			{
 			  "@context":"http://schema.org",
 			  "@type":"Book",
-			  "name" : "Product Academy vol 1 : Le guide des product owners et de product managers d'élite",
+			  "name" : "Product Academy vol 1 : A guide to agile Product Management",
 			  "author": {
 			    "@type":"Organization",
 			    "name":"Thiga"
@@ -60,17 +60,15 @@
 					<img class="background-image" alt="Background Image" src="/img/backgrounds/grey-bg-min.jpg">
 				</div>
 				
-				<div class="container align-vertical marge">
+				<div class="container align-vertical">
 					<div class="row">
 						<div class="col-md-5 col-sm-6">
-							<br><h4> Product Academy - Volume 1</h4><br>
-							<h1><strong>Le guide des Product Managers & Product Owners d'élite</strong></h1>
+							<h4 class="space-top-small"> Product Academy - Volume 1</h4>
+							<h2 class="space-bottom-small">A guide to agile Product Management</h2>
 							<p class="lead">
 
-								Ce livre est à destination de ceux qui souhaitent créer de nouveaux produits ou faire évoluer des produits existants, le tout dans un environnement agile.<br>
-                  
-                                En trois parties et au travers de quatorze règles, les lecteurs assidus pourront  suivre la vie d’un produit de sa <strong> vision initiale jusqu’à son retrait du marché.</strong><br>
-								
+								This book about product management intends to be actionable and concrete, a boiled-down essence of what the job is really about, and how to go about doing it. <br/><br/>
+								This book is for Product Owners and Managers working within an agile framework, who are looking to create a new product, or looking for new ways of improving their existing products. To that effect, the book is broken up into three parts that correspond to a product’s lifecycle: <strong>discovery, development and growth</strong>.
 							</p>
 							<a href="/pdf/Product-Academy-1.epub" class="btn btn-primary9">EBOOK</a>
 							<a href="/pdf/Product-Academy-1.pdf" class="btn btn-primary9 btn-filled">PDF</a>
@@ -82,8 +80,9 @@
 					<img alt="Product Image" src="/img/product-academy/pa1transparent-min.png">
 				</div>
 			
-			</section>
-			<section class="side-image text-heavy clearfix">
+		</section>
+
+		<section class="side-image text-heavy clearfix">
 				<div class="image-container col-md-5 col-sm-3 pull-left">
 					<div class="product-image3 marge">
 						<img class="background-image" alt="Background Image" src="/img/product-academy/pa1open-min.png">
@@ -93,22 +92,15 @@
 				<div class="container">
 				
 					<div class="row">
-				
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-							<h1>Pourquoi ce livre ?</h1>
-							<p>
-							Nous avons tenu à écrire ce livre pour <strong>évangéliser les acteurs du numérique aux meilleurs pratiques de Product Management</strong> dans un environnement agile. </p>
-							<p>
-							Quand le livre est paru, en 2015, le rôle de chef de produit dans le numérique était souvent mal compris. Il s’agit pourtant d’un rôle crucial dans la réussite d’un produit et c’est pour cette raison que nous avons décidé de lui consacrer cet ouvrage.</p>
-							<p>Chacune des règles de ce livre répond à une problématique concrète : <strong>Comment être sûr de faire le bon produit ? Comment construire une roadmap ? Comment prioriser ? Comment conserver mes utilisateurs ? Dois-je tuer mon produit ?</strong></p>
-                            <p>Dans ce livre, nous vous livrons nos méthodes, nos outils et nos convictions. Nous espérons qu’ils vous aideront à créer les bons produits, ceux qui feront le succès de votre entreprise.
+							<h2 class="space-bottom-small">Why this book ?</h2>
+							<p class="lead">
+							Product Academy has the ambition to help product owners and managers develop their skillset. Product Managers have been around for decades in most industries, but the role is still often misunderstood when it comes to the software industry, despite the crucial importance of the product owner and manager to the development of quality software. That’s why we decided to write this book. </p>
+							<p class="lead">
+							Throughout the following pages the team at Thiga has split their collective guts, and have shared all their best methods, tools, and convictions. We hope they’ll help you and your team create amazing products that will become real drivers of your company’s successes.
 							</p>
-							<br>
-							
 						</div>
-					
 					</div>
-				
 				</div>
 			</section>
 			<section class="side-image clearfix">
@@ -116,27 +108,17 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 content col-sm-8 clearfix">
-							<h1>Les auteurs</h1>
-		
+							<h2 class="space-bottom-small">Authors</h2>
 							<ul class="blog-snippet-2">
 								<li>
 									
 									<div class="title">
-										<p>Ce livre a été écrit avec passion par les équipe de Thiga et de Xebia<br></p>
-										<p>Thiga : <strong>Nicolas Blaisot-Balette, Audrey Pedro, Emilie-Anne Guerch, Benoit Emery, Maria Frih, Romain Monclus, Simon Joliveau-Breney, Cynthia Bevilacqua, Floriane Mignon, Alexandre Irrmann-Tézé, Hugo Geissmann</strong><br></p>
-										<p>Xebia : <strong>Laurène Vol-Monnot, Ludovic Perot, Renaud Chevalier, Benjamin Moitié, Clément Rochas, Arnaud Brachetti</strong><br></p>
+										<p class="lead">This book was written with passion by the Product Managers and Owners at Thiga <br/><br/>Nicolas Blaisot-Balette, Audrey Pedro, Emilie-Anne Guerch, Benoit Emery, Maria Frih, Romain Monclus, Simon Joliveau-Breney, Cynthia Bevilacqua, Floriane Mignon, Alexandre Irrmann-Tézé, Hugo Geissmann</p>
 										
 									</div>
 								</li>
-								
-								
-								
-								
-								
-								
 							</ul>	
-							
-							</div>	
+						</div>	
 					</div>
 				</div>
 				

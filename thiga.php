@@ -32,7 +32,7 @@
                         <div class="col-sm-9">
                             <span class="text-white alt-font">We are Thiga</span>
                             <h1 class="text-white">A few words about us</h1>
-                            <p class="text-white lead">Founded in 2014, in Paris, France, Thiga was created to change the way Digital Products are made. Our Thiguys work with you, in-house, and use the best practices like 
+                            <p class="text-white lead">Founded in 2014, in Paris, France, Thiga was created to change the way Digital Products are made. Our Thiguys work with you, embedded, and use the best practices like 
 							Lean UX, Design Thinking, Agile to deliver the best user experience. </p>
 							<p class="text-white lead">
 							We intervene throughout the lifecycle of your product: from the high level strategy, through the creation, roll out and in-life of a digital Product.

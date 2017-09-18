@@ -269,7 +269,8 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-5">
-							<h2 class="space-bottom-medium">Product Academy <br/><strong> A guide to agile Product Management</strong></h2>
+							<h4 class="space-top-small"> Product Academy - Volume 1</h4>
+							<h2 class="space-bottom-small">A guide to agile Product Management</h2>
 							<p class="lead">
 								Written by our Thiguys, this book will give you the best practices to <strong>build the right product and build it right</strong>.</p>
 							<a href="/book" class="btn btn-primary9 btn-filled">Get the book</a>
