@@ -67,7 +67,7 @@
 
 							<h2 class="space-bottom-medium">Thiga is an international consultancy dedicated to Product Management</h2><br>
 
-							<p class="lead">Our business is to provide our clients and partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to in-house Product Design (UX&UI) and Product Ownership.</p>
+							<p class="lead">Our business is to provide our partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to in-house Product Design (UX&UI) and Product Ownership.</p>
 
 							<p class="lead">We are fundamentally agile, and strongly believe that agility is not just about software development: it is a mindset which allows to open organisations to more transverse collaboration, be more flexible and responsive to change, and ultimately about putting people first.</p>
 
@@ -92,7 +92,7 @@
 									<i class="icon icon-mic"></i>
 									<h6 class="text-white">Design Thinking</h6>
 									<p class="text-white">
-										Start by building empathy with the people you are creating a product for. Many techniques are used to enable the team to come to a perfect understanding of who the user is and what his needs are.
+										By employing a variety of techniques, build empathy with the people you are creating your product for. Many tools and methods are used to enable teams to come to a perfect understanding of who their user is and what his need are.
 									</p>
 								</div>
 							</div>
@@ -102,7 +102,7 @@
 									<i class="icon icon-hourglass"></i>
 									<h6 class="text-white">Lean Startup</h6>
 									<p class="text-white">
-										Reach the Product Market fit by testing the assumptions made about key features early-on with users and measure the data acquired from experiments.
+										Reach Product Market fit by testing the assumptions made about key features with real users and measure the data acquired from experiments as early as possible.
 									</p>
 								</div>
 							</div>
@@ -122,7 +122,7 @@
 									<i class="icon icon-recycle"></i>
 									<h6 class="text-white">Scrum & Kanban</h6>
 									<p class="text-white">
-										Use well-known Agile Software Methodologies, such as Kanban and Scrum, to deliver quality products to the market at a high frequency.
+										Use well-known Agile software developement ethodologies, such as Kanban and Scrum, to continuously deliver quality products to the market.
 									</p>
 								</div>
 							</div>
@@ -145,12 +145,12 @@
 							<div class="col-md-4 col-sm-4 clearfix">
 								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productstrategy-min.png">
 									<span class="align-left">
-										<h4 class="space-bottom-xsmall">Consulting assignements</h4>
-										<h4 class="space-bottom-small">In-house <strong>Product Strategist</strong></h4>
+										<h4 class="space-bottom-xsmall">Consulting assignments</h4>
+										<h4 class="space-bottom-small">In-house <strong>Product Strategists</strong></h4>
 										<p>
 										Lean Startup, Design Sprint, Design Thinking</p>
 										<p>
-										<em>Internal and external analysis, benchmark, brainstorming, Lean canvas, strengths and pain points, design value proposition.</em></p>
+										<em>Internal and external analysis, benchmarking, brainstorming, creation of Lean Canvas, exploration of strengths and pain points, design of value propositions.</em></p>
 									</span>
 							</div>
 							<div class="col-md-4 col-sm-4 clearfix">
@@ -160,7 +160,7 @@
 									<h4 class="space-bottom-small">In-house <strong>UI-Designer</strong></h4>
 									<p>Lean UX, Design Sprint, Design Thinking, Agile
 									</p>
-									<p><em>Warm up, users interview, personas, customer journey, sketching, wireframes, prototype, users tests, experience map.</em>
+									<p><em>User interviews, personas, customer journeys, sketching, wireframing, prototyping, user testing, experience mapping.</em>
 									</p>
 								</span>
 							</div>
@@ -172,7 +172,7 @@
 									<p>
 										Agile, Scrum, Kanban, SAFe
 									</p>
-									<p><em>Story mapping, user story, product backlog, poker planning, prioritisation, stand up, sprint, showcase, retro, burndown.</em>
+									<p><em>Story mapping, user story writing, product backlog analysis & maintenance, poker planning, prioritisation, stand up meetings, sprints, showcases, retro, burndown.</em>
 									</p>
 								</span>
 
@@ -270,7 +270,7 @@
 					<div class="row">
 						<div class="col-md-5 col-sm-6">
 							<h4 class="space-top-small">Product Academy - Volume 1</h4>
-							<h2 class="space-bottom-small">A guide to agile Product Management</h2>
+							<h2 class="space-bottom-small">A Guide to Agile Product Management</h2>
 							<p class="lead">
 								Written by our Thiguys, this book will give you the best practices to <strong>build the right product and build it right</strong>.</p>
 							<a href="/book" class="btn btn-primary9 btn-filled">Get the book</a>
@@ -287,7 +287,7 @@
                 <div class="container">
                     <div class="row clearfix">
                         <div class="col-sm-6 pull-left col-xs-11">
-                            <h3 class="text-white"><strong>Want to get in touch with us ?</strong></h3>
+                            <h3 class="text-white"><strong>Want to get in touch?</strong></h3>
                         </div>
 
                         <div class="col-sm-4 col-xs-12 pull-right text-right">
