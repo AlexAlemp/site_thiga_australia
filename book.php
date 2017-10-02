@@ -113,7 +113,7 @@
 							<p class="lead">
 							Product Academy has the ambition to help product owners and managers develop their skillset. Product Managers have been around for decades in most industries, but the role is still often misunderstood when it comes to the software industry, despite the crucial importance of the product owner and manager to the development of quality software. That’s why we decided to write this book. </p>
 							<p class="lead">
-							Throughout the following pages the team at Thiga has split their collective guts, and have shared all their best methods, tools, and convictions. We hope they’ll help you and your team create amazing products that will become real drivers of your company’s successes.
+							Throughout the following pages the team at Thiga has spilt their collective guts, and have shared all their best methods, tools, and convictions. We hope they’ll help you and your team create amazing products that will become real drivers of your company’s successes.
 							</p>
 						</div>
 					</div>

@@ -3,7 +3,7 @@
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
-<!--[if gt IE 8]><!--> 
+<!--[if gt IE 8]><!-->
 <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
@@ -48,7 +48,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-6 col-md-offset-6 col-sm-7 col-sm-offset-5 content clearfix">
-							<h2>Why join us ?</h2><br/>
+							<h2>Why join us?</h2><br/>
 							<p class="lead">
 								From day one, we have done everything to build a welcoming and dynamic venture : the heart of a startup in the shape of a consulting company.
 							</p>
@@ -76,8 +76,8 @@
 										<div class="feature-text">
 											<h6>Being part of a community</h6>
 											<p>
-												More than just a consultancy, Thiga is a community of Product Management passionate people. Several time a month, we meet to improve our Product Management skills.
-											</p>
+												More than just a consultancy, Thiga is a community of passionate Product Managers. Several times a month, we meet to improve our Product Management skills.
+                      </p>
 										</div>
 									</div>
 								</div>
@@ -90,10 +90,10 @@
 											<i class="icon icon-mobile"></i>
 										</div>
 										<div class="feature-text">
-											<h6>Full-stack Product Management !</h6>
+											<h6>Full-stack Product Management!</h6>
 											<p>
-												By joining Thiga, you will benefit from the knowledge of our different tribes. The main objective? Becoming a full-stack Product Manager.
-											</p>
+												By joining Thiga, you’ll benefit from the knowledge of our different tribes. Our main objective? Making sure every Thiguy can become a full-stack Product Manager.
+                      </p>
 										</div>
 									</div>
 								</div>
@@ -122,11 +122,11 @@
                 <div class="container">
                     <div class="row clearfix">
                         <div class="col-sm-6 pull-left col-xs-11">
-                            <h3 class="text-white"><strong>Do you feel like joining us ?</strong></h3>
+                            <h3 class="text-white"><strong>Do you feel like joining us?</strong></h3>
                         </div>
 
                         <div class="col-sm-4 col-xs-12 pull-right text-right">
-                            <a target="_blank" href="https://www.welcometothejungle.co/companies/thiga/jobs" class="btn btn-primary btn-white">check out our job offers on linkedin</a>
+                            <a target="_blank" href="https://www.linkedin.com/showcase/11234225/" class="btn btn-primary btn-white">check out our job offers on linkedin</a>
                         </div>
                     </div>
                 </div>
@@ -214,7 +214,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2 col-sm-10 col-sm-offset-1 text-center">
-                            <h1>Figures</h1>
+                            <h1>Key figures</h1>
                         </div>
                     </div>
 
