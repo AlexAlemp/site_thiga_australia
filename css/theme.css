@@ -1,3 +1,40 @@
+/* expertise */
+.bloc-expertise div:first-child{
+  padding: 20px;
+  margin-bottom: 5px;
+  background: #101010 url(/img/logos-thiga/A-seul_black.png) 48% 13%;
+  background-size: 6%;
+}
+.bloc-expertise div:first-child p{ font-size: 21px; text-align: center; }
+.bloc-expertise div.productStrategy { border-bottom:5px solid #2bc2e5 }
+.bloc-expertise div.productDesign { border-bottom:5px solid #7381e1 }
+.bloc-expertise div.productOwnership { border-bottom:5px solid #17c5a8 }
+.bloc-expertise div.productStrategy p{ color: #2bc2e5; }
+.bloc-expertise div.productDesign p{ color: #7381e1 }
+.bloc-expertise div.productOwnership p{ color: #17c5a8 }
+
+.bloc-expertise div{ background: #eee; padding: 20px; margin-bottom: 5px; }
+.bloc-expertise span{ color: #333; font-size: 15px; line-height: 26px; }
+/* fin bloc expertise */
+
+/* bug fix */
+@media only screen and (max-width: 767px) and (min-width: 320px){
+  .container  .menu {
+        margin-top: 20px;
+    }
+  #home-livres{
+      background: #fff
+    }
+  #home-livres a{
+    margin-bottom: 60px
+    }
+}
+
+body .space-bottom-large {
+    margin-bottom: 70px !important;
+}
+/* fin bug fix  */
+
 .bg-primary {
   background-color: #e74c3c !important;
 }

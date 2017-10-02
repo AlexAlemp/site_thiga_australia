@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
 <!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
@@ -130,7 +129,6 @@
 			</section>
 
 			<section class="duplicatable-content">
-
 				<div class="container space-bottom-medium">
 					<div class="row">
 						<div class="col-md-12 text-center">
@@ -138,6 +136,65 @@
 						</div>
 					</div>
 
+
+          <div class="bloc-expertise col-md-4 col-sm-4 clearfix" style="margin-bottom: 25px;">
+              <div class="productStrategy">
+                 <p>Product <strong>Strategy</strong></p>
+              </div>
+              <div>
+                <span>Consulting assignments</span><br/>
+                <span>In-house <strong>Product Strategists</strong></span>
+              </div>
+
+              <div>
+                <span>Lean Startup, Design Sprint, Design Thinking</span>
+              </div>
+
+              <div>
+                <span>Internal and external analysis, benchmarking, brainstorming, creation of Lean Canvas, exploration of strengths and pain points, design of value propositions.</span>
+              </div>
+          </div>
+
+
+          <div class="bloc-expertise col-md-4 col-sm-4 clearfix" style="margin-bottom: 25px;">
+            <div class="productDesign">
+               <p>Product <strong>Design</strong></p>
+            </div>
+            <div>
+              <span>In-house <strong>UX-Designer</strong></span><br/>
+              <span>In-house <strong>UI-Designer</strong></span>
+            </div>
+
+            <div>
+              <span>Lean UX, Design Sprint, Design Thinking, Agile</span>
+            </div>
+
+            <div>
+              <span>Warm up workshops, user interviews, shadowing, personas, customer journeys, sketching, wireframing, prototyping, user testing, experience mapping.</span>
+            </div>
+          </div>
+
+
+          <div class="bloc-expertise col-md-4 col-sm-4 clearfix">
+            <div class="productOwnership">
+               <p>Product <strong>Ownership</strong></p>
+            </div>
+            <div>
+              <span>In-house <strong>Product Manager</strong></span><br/>
+              <span>In-house <strong>Product Owner</strong></span>
+            </div>
+
+            <div>
+              <span>Agile, Scrum, Kanban, SAFe</span>
+            </div>
+
+            <div>
+              <span>Story mapping, user story writing, product backlog analysis & maintenance, poker planning, prioritisation, stand up meetings, sprints, showcases, retro, burndown.</span>
+            </div>
+          </div>
+
+
+<!--
 					<div class="row text-center">
 
 							<div class="col-md-4 col-sm-4 clearfix">
@@ -146,7 +203,8 @@
 										<h4 class="space-bottom-xsmall">Consulting assignments</h4>
 										<h4 class="space-bottom-small">In-house <strong>Product Strategists</strong></h4>
 										<p>
-										Lean Startup, Design Sprint, Design Thinking</p>
+										Lean Startup, Design Sprint, Design Thinking
+                  </p>
 										<p>
                       <em>
                         Internal and external analysis, benchmarking, brainstorming, creation of Lean Canvas, exploration of strengths and pain points, design of value propositions.
@@ -179,9 +237,9 @@
 								</span>
 
 							</div>
-
-
 					</div>
+
+-->
 
 				</div>
 			</section>
@@ -266,16 +324,18 @@
 				</div>
 			</section>
 
-			<section id="home-livres" class="feature-divider">
+			<section id="home-livres" class="strip feature-divider">
 
 				<div class="container">
 					<div class="row">
 						<div class="col-md-5 col-sm-6">
-							<h4 class="space-top-small">Product Academy - Volume 1</h4>
+							<h4 class="space-bottom-small">Product Academy - Volume 1</h4>
 							<h2 class="space-bottom-small">A Guide to Agile Product Management</h2>
 							<p class="lead">
 								Written by our Thiguys, this book will give you the best practices to <strong>build the right product, and build it right</strong>.</p>
-							<a href="/book" class="btn btn-primary9 btn-filled">Get the book</a>
+							<div class="col-sm-4 col-xs-12 text-right">
+                <a href="/book" class="btn btn-primary9 btn-filled">Get the book</a>
+              </div>
 						</div>
 
 						<div class="col-md-7 col-sm-6 centered-text" data-scroll-reveal="enter from bottom and move 100px">
@@ -288,7 +348,7 @@
 			<section class="strip bg-secondary-1">
                 <div class="container">
                     <div class="row clearfix">
-                        <div class="col-sm-6 pull-left col-xs-11">
+                        <div class="col-sm-6 pull-left col-xs-12">
                             <h3 class="text-white"><strong>Want to get in touch?</strong></h3>
                         </div>
 
