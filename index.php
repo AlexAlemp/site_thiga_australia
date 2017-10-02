@@ -29,7 +29,6 @@
 </script>
 
     </head>
-
     <body class="no-loader">
     	<?php include('gtm-body.php'); ?>
 		<?php include('navigation.php'); ?>
