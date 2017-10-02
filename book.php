@@ -78,7 +78,7 @@
 							</p>
               <div class="photo-form-wrapper clearfix">
                 <form class="email-form">
-                  <input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="Mail" name="email">
+                  <input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
                   <button type="button" style="margin-top:0px;" id="contactFormSubmitButtonPA1" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
                   <div class="form-success">
                       <span class="text-white">Message sent !</span>
