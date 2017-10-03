@@ -37,20 +37,20 @@
                         <form class="email-form">
                             <div class="row">
                                 <div class="col-md-3 col-sm-4 col-sm-offset-2 col-md-offset-3">
-                                    <input class="form-name validate-required" type="text" placeholder="Name" name="name">
+                                    <input class="form-name validate-required" type="text" placeholder="Your name" name="name">
                                 </div>
 
                                 <div class="col-md-3 col-sm-4">
-                                    <input class="form-email validate-required validate-email" type="text" placeholder="Mail" name="email">
+                                    <input class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="col-md-6 col-sm-8 col-sm-offset-2 col-md-offset-3 text-center">
-                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Message"></textarea>
-                                    <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
+                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Your message"></textarea>
+                                    <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Send</button>
                                     <div class="form-success">
-                                        <span class="text-white">Message sent !</span>
+                                        <span class="text-white">Thanks! Your message has been sent.</span>
                                     </div>
                                     <div class="form-error">
                                         <span class="text-white">Please fill the form</span>
