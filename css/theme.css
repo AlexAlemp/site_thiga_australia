@@ -36,6 +36,9 @@ body section:nth-of-type(odd) {
       margin-top: 20px !important;
       margin-bottom: 15px;
     }
+  .contactPage {
+        margin-top: 40px !important;
+    }
 }
 
 .footer-container .description{ margin-top: 20px !important; }

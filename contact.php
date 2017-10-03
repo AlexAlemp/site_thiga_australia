@@ -108,22 +108,22 @@
 						<div class="col-sm-6 text-center">
 							<h5>Paris</h5>
 							<p class="lead">
-								+ 6 17 51 77 87<br>
-								contact@thiga.fr<br>
-								<br>
-								156 bd Haussmann<br>
-								75008 Paris
+                <ul>
+                  <li>+33 6 17 51 77 87<li/>
+								  <li>contact@thiga.fr<br/><li/>
+								  <li>156 bd Haussmann<br>75008 Paris<li/>
+                </ul>
 							</p>
 						</div>
-						<div class="col-sm-6 text-center">
+						<div class="col-sm-6 text-center contactPage">
 							<h5>Sydney</h5>
 							<p class="lead">
-								<br>
-								contact@thiga.com.au<br>
-								<br>
-								1/575 Darling Street, Rozelle<br>
-								Sydney, NSW 2039
-							</p>
+								<ul>
+                  <li>+61 4 81 945 891<li/>
+                  <li>contact@thiga.com.au<li/>
+								  <li>1/575 Darling Street, Rozelle<br/>Sydney, NSW 2039<li/>
+                </ul>
+              </p>
 						</div>
 
 					</div>
