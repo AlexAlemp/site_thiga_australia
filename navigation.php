@@ -25,6 +25,12 @@
 								<li><a href="/join">Join us</a></li>
 								<li><a target="_blank" href="http://blog.thiga.com.au">Blog</a></li>
 								<li><a href="/contact">Contact</a></li>
+								<li class="has-dropdown"><img width="18px" src="/img/aus.png" alt="English"><a href="#">&nbsp;English</a>
+									<ul class="subnav">
+										<li><img src="/img/fr.png"  alt="french"><a href="http://thiga.fr">&nbsp;French</a></li>
+						
+									</ul>
+								</li>
 							</ul>
 
 							<ul class="social-icons text-right">
