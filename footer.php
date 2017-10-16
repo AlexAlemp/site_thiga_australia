@@ -63,4 +63,7 @@
         <script defer src="/js/lightbox.min.js"></script>
         <script defer src="/js/jquery.countdown.min.js"></script>
         <script defer src="/js/scripts.js"></script>
+        <!-- Start of HubSpot Embed Code -->
+  <script type="text/javascript" id="hs-script-loader" async defer src="//js.hs-scripts.com/3980506.js"></script>
+<!-- End of HubSpot Embed Code -->
     </body>
