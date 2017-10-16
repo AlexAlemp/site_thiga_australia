@@ -1,3 +1,58 @@
+/* expertise */
+.bloc-expertise div:first-child{
+  padding: 20px;
+  margin-bottom: 5px;
+  background: #101010 url(/img/logos-thiga/A-seul_black.png) 48% 13%;
+  background-size: 6%;
+}
+.bloc-expertise div:first-child p{ font-size: 21px; text-align: center; }
+.bloc-expertise div.productStrategy { border-bottom:5px solid #2bc2e5 }
+.bloc-expertise div.productDesign { border-bottom:5px solid #7381e1 }
+.bloc-expertise div.productOwnership { border-bottom:5px solid #17c5a8 }
+.bloc-expertise div.productStrategy p{ color: #2bc2e5; }
+.bloc-expertise div.productDesign p{ color: #7381e1 }
+.bloc-expertise div.productOwnership p{ color: #17c5a8 }
+
+.bloc-expertise div{ background: #eee; padding: 20px; margin-bottom: 5px; }
+.bloc-expertise span{ color: #333; font-size: 15px; line-height: 26px; }
+/* fin bloc expertise */
+
+/* bug fix */
+body section:nth-of-type(odd) {
+    background: rgba(244, 244, 244, 0.7);
+}
+
+@media only screen and (max-width: 767px) and (min-width: 320px){
+  .container  .menu {
+      margin-top: 20px;
+    }
+  #home-livres{
+      background: #fff
+    }
+  #home-livres a{
+      margin-bottom: 60px
+    }
+  .footer-container .navFooter, .footer-container .ThigaOffices {
+      margin-top: 20px !important;
+      margin-bottom: 15px;
+    }
+  .contactPage {
+        margin-top: 40px !important;
+    }
+}
+
+.footer-container .description{ margin-top: 20px !important; }
+.footer-container a { color: #fff}
+
+body .space-bottom-large {
+    margin-bottom: 70px !important;
+}
+
+
+
+
+/* fin bug fix  */
+
 .bg-primary {
   background-color: #e74c3c !important;
 }
@@ -767,7 +822,7 @@ header .container {
 header .logo {
   max-width: 200px;
   display: inline-block;
-  margin-bottom: 24px;
+  margin-bottom: 15px;
 }
 header .btn {
   margin-right: 16px;
@@ -789,14 +844,14 @@ header .btn:last-child {
   font-size: 18px;
 }
 .page-header:before {
-  position: absolute;
-  width: 100%;
-  height: 100%;
-  top: 0px;
-  content: '';
-  opacity: 0.3;
-  z-index: 2;
-  background-color: #333333;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0px;
+    content: '';
+    opacity: 0.5;
+    z-index: 2;
+    background-color: #354052;
 }
 .page-header .background-image-holder {
   height: 150%;

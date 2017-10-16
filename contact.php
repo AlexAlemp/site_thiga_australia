@@ -37,20 +37,20 @@
                         <form class="email-form">
                             <div class="row">
                                 <div class="col-md-3 col-sm-4 col-sm-offset-2 col-md-offset-3">
-                                    <input class="form-name validate-required" type="text" placeholder="Name" name="name">
+                                    <input class="form-name validate-required" type="text" placeholder="Your name" name="name">
                                 </div>
 
                                 <div class="col-md-3 col-sm-4">
-                                    <input class="form-email validate-required validate-email" type="text" placeholder="Mail" name="email">
+                                    <input class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
                                 </div>
                             </div>
 
                             <div class="row">
                                 <div class="col-md-6 col-sm-8 col-sm-offset-2 col-md-offset-3 text-center">
-                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Message"></textarea>
-                                    <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
+                                    <textarea class="form-message validate-required" rows="7" name="message" placeholder="Your message"></textarea>
+                                    <button type="button" id="contactFormSubmitButton" class="btn btn-primary9 btn-filled" value="Send Form">Send</button>
                                     <div class="form-success">
-                                        <span class="text-white">Message sent !</span>
+                                        <span class="text-white">Thanks! Your message has been sent.</span>
                                     </div>
                                     <div class="form-error">
                                         <span class="text-white">Please fill the form</span>
@@ -108,22 +108,22 @@
 						<div class="col-sm-6 text-center">
 							<h5>Paris</h5>
 							<p class="lead">
-								+ 6 17 51 77 87<br>
-								contact@thiga.fr<br>
-								<br>
-								156 bd Haussmann<br>
-								75008 Paris
+                <ul>
+                  <li>+33 6 17 51 77 87<li/>
+								  <li>contact@thiga.fr<br/><li/>
+								  <li>156 bd Haussmann<br>75008 Paris<li/>
+                </ul>
 							</p>
 						</div>
-						<div class="col-sm-6 text-center">
+						<div class="col-sm-6 text-center contactPage">
 							<h5>Sydney</h5>
 							<p class="lead">
-								<br>
-								contact@thiga.com.au<br>
-								<br>
-								1/575 Darling Street, Rozelle<br>
-								Sydney, NSW 2039
-							</p>
+								<ul>
+                  <li>+61 4 81 945 891<li/>
+                  <li>contact@thiga.com.au<li/>
+								  <li>1/575 Darling Street, Rozelle<br/>Sydney, NSW 2039<li/>
+                </ul>
+              </p>
 						</div>
 
 					</div>

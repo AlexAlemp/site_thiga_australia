@@ -78,10 +78,11 @@
 							</p>
               <div class="photo-form-wrapper clearfix">
                 <form class="email-form">
-                  <input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="email" name="email">
-                  <button type="button" style="margin-top:0px;" id="contactFormSubmitButtonPA1" class="btn btn-primary9 btn-filled" value="Send Form">Submit</button>
+
+                  <input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
+                  <button type="button" style="margin-top:0px;" id="contactFormSubmitButtonPA1" class="btn btn-primary9 btn-filled" value="Send Form">Send</button>
                   <div class="form-success">
-                      <span class="text-white">Message sent !</span>
+                      <span class="text-white">Thanks! Your email is saved.</span>
                   </div>
                   <div class="form-error">
                       <span class="text-white">Please fill the form</span>
@@ -109,11 +110,11 @@
 
 					<div class="row">
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-							<h2 class="space-bottom-small">Why this book ?</h2>
+							<h2 class="space-bottom-small">Why this book?</h2>
 							<p class="lead">
 							Product Academy has the ambition to help product owners and managers develop their skillset. Product Managers have been around for decades in most industries, but the role is still often misunderstood when it comes to the software industry, despite the crucial importance of the product owner and manager to the development of quality software. That’s why we decided to write this book. </p>
 							<p class="lead">
-							Throughout the following pages the team at Thiga has split their collective guts, and have shared all their best methods, tools, and convictions. We hope they’ll help you and your team create amazing products that will become real drivers of your company’s successes.
+							Throughout the following pages the team at Thiga has spilt their collective guts, and have shared all their best methods, tools, and convictions. We hope they’ll help you and your team create amazing products that will become real drivers of your company’s successes.
 							</p>
 						</div>
 					</div>

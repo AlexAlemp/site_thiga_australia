@@ -3,11 +3,15 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-3">
-							<span class="text-white sub">© Copyright 2017 THIGA<br><br>
-								<strong>contact@thiga.com.au</strong><br/><br/>
-							</span>
+              <img class="about-image" src="http://blog.thiga.com.au/wp-content/uploads/2017/09/thiga.png" alt="img">
+              <p class="description"><span>Agile Product Management &amp; Product Design Consultants</span></p>
+
+									<ul>
+										<li><a target="_blank" href="mailto:contact@thiga.com.au"><strong>contact@thiga.com.au</strong></a></li>
+										<li><span class="text-white sub">© Copyright 2017 THIGA</span></li>
+									</ul>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3 navFooter">
 							<span class="text-white">
 								<ul>
 									<li><a href="/thiga">We are Thiga</a></li>
@@ -20,13 +24,15 @@
 						</div>
 						<div class="col-sm-3">
 							<span class="text-white">
-								<strong>Our tribes</strong><br><br>
-								Thiga - Product Ownership<br>
-								Thiga - Product Strategy<br>
-								Thiga - Product Design
+								<strong>Our tribes</strong>
+								<ul>
+									<li>Thiga - Product Ownership</li>
+									<li>Thiga - Product Strategy</li>
+									<li>Thiga - Product Design</li>
+								</ul>
 							</span>
 						</div>
-						<div class="col-sm-3">
+						<div class="col-sm-3 ThigaOffices">
 							<span class="text-white sub">
 								<strong>Thiga Australia</strong><br>
 								1/575 Darling Street, Rozelle<br>
@@ -48,7 +54,7 @@
 				</div>
 			</footer>
 		</div>
-				
+
 		<!--<script defer src="https://www.youtube.com/iframe_api"></script>-->
 		<script defer src="/js/jquery.min.js"></script>
         <script defer src="/js/jquery.plugin.min.js"></script>
