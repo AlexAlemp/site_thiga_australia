@@ -121,7 +121,7 @@
 								<ul>
                   <li>+61 4 81 945 891<li/>
                   <li>contact@thiga.com.au<li/>
-								  <li>1/575 Darling Street, Rozelle<br/>Sydney, NSW 2039<li/>
+								  <li>204 Clarence St<br/>Sydney, NSW 2000<li/>
                 </ul>
               </p>
 						</div>

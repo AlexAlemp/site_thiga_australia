@@ -35,8 +35,8 @@
 						<div class="col-sm-3 ThigaOffices">
 							<span class="text-white sub">
 								<strong>Thiga Australia</strong><br>
-								1/575 Darling Street, Rozelle<br>
-								Sydney, NSW 2039<br><br>
+								1/204 Clarence St<br>
+								Sydney, NSW 2000<br><br>
 								<strong>Thiga France</strong><br>
 								156 boulevard Haussmann<br>
 								75008, Paris<br>

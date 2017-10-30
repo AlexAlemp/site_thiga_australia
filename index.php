@@ -65,11 +65,7 @@
 
 							<h2 class="space-bottom-medium">Thiga is an international consulting firm dedicated to Product Management</h2><br>
 
-<<<<<<< HEAD
-							<p class="lead">Our business is to provide our partners with expertise and support along all the phases involved in the creation, roll out and in-life of a digital Product. Our expertise goes from Product Strategy to in-house Product Design (UX&UI) and Product Ownership.</p>
-=======
 							<p class="lead">Our business is to provide our partners with expertise and support along every step of the creation, roll-out and life of a digital Product. Our expertise spans from Product Strategy to in-house Product Design (UX & UI) and Product Ownership.</p>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
 
 							<p class="lead">We are fundamentally agile, and strongly believe that agility is not just about software development: it is a mindset which empowers organisations to be more flexible, responsive to change and puts people at the heart of any endeavour.</p>
 
@@ -94,11 +90,7 @@
 									<i class="icon icon-mic"></i>
 									<h6 class="text-white">Design Thinking</h6>
 									<p class="text-white">
-<<<<<<< HEAD
-										By employing a variety of techniques, build empathy with the people you are creating your product for. Many tools and methods are used to enable teams to come to a perfect understanding of who their user is and what his need are.
-=======
 										By employing a variety of techniques, build empathy with the people you are creating your product for. Many tools and methods  are used to enable teams to come to a perfect understanding of who their user is and what his/her needs are.
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
 									</p>
 								</div>
 							</div>
@@ -109,11 +101,7 @@
 									<h6 class="text-white">Lean Startup</h6>
 									<p class="text-white">
 										Reach Product Market fit by testing the assumptions made about key features with real users and measure the data acquired from experiments as early as possible.
-<<<<<<< HEAD
-									</p>
-=======
-                  </p>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
+                  					</p>
 								</div>
 							</div>
 
@@ -131,13 +119,8 @@
 									<i class="icon icon-recycle"></i>
 									<h6 class="text-white">Scrum & Kanban</h6>
 									<p class="text-white">
-<<<<<<< HEAD
-										Use well-known Agile software developement ethodologies, such as Kanban and Scrum, to continuously deliver quality products to the market.
-									</p>
-=======
 										Use well-known agile software development methodologies, such as Kanban and Scrum, to continuously deliver quality products to the market.
-                  </p>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
+                  					</p>
 								</div>
 							</div>
 					</div>
