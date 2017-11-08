@@ -6,8 +6,8 @@
 <html class="no-js"> <!--<![endif]-->
     <head>
         <meta charset="utf-8">
-        <title>Thiga Australia - Agile Product Management Consultants</title>
-        <meta name="description" content="Thiga is a consulting firm dedicated to Product Management & Product Design">
+        <title>Thiga Australia - UX Design & Agile Product Management Consultants</title>
+        <meta name="description" content="Thiga is a consulting firm dedicated to UX Design & Product Management">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
@@ -18,7 +18,7 @@
 			  "@context": "http://schema.org",
 			  "@type": "Organization",
 			  "url": "http://thiga.com.au",
-			  "name": "Thiga - Agile Product Management",
+			  "name": "Thiga - UX Design & Agile Product Management",
 			  "contactPoint": {
 			    "@type": "ContactPoint",
 			    "telephone": "",
@@ -42,7 +42,7 @@
                     <div class="row">
 						<div class="col-md-12 text-center">
 							<img alt="logo" class="logo" src="/img/logos-thiga/logo-HD-blanc.png">
-							<h1 class="text-white">Agile Product Management Consultants</h1>
+							<h1 class="text-white">UX Design & Agile Product Management Consultants</h1>
 
 						</div>
 					</div>

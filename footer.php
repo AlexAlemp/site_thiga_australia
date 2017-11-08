@@ -3,7 +3,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-sm-3">
-              <img class="about-image" src="http://blog.thiga.com.au/wp-content/uploads/2017/09/thiga.png" alt="img">
+              <img class="about-image" src="/img/logos-thiga/logo_Thiga_with_australia_white.png" alt="img">
               <p class="description"><span>Agile Product Management &amp; Product Design Consultants</span></p>
 
 									<ul>

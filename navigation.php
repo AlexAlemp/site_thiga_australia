@@ -12,7 +12,7 @@
 					<div class="row nav-menu">
 						<div class="col-md-2 col-sm-3 columns">
 								<a href="/">
-								<img alt="logo" class="outer-logo" src="/img/logos-thiga/A-seul.png">
+								<img alt="logo" class="outer-logo" src="/img/logos-thiga/single-a.png">
 							</a>
 						</div>
 

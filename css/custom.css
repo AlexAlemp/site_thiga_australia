@@ -61,6 +61,12 @@ h2 em {
   width: 120px;
   }
 
+header .logo {
+    margin-bottom: 50px;
+}
+
+
+
 /** END HOME **/
 
 /** BOOK **/
@@ -103,6 +109,10 @@ footer.short-2 span {
 
 footer .small-text {
   font-size:80%;
+}
+
+.about-image{
+  max-width: 50%;
 }
 
 /** END FOOTER **/
@@ -321,7 +331,6 @@ p.lead2 {
   border-color: #ffffff;
   background-color: none;
 }
-
 
 
   .logo-footh{
