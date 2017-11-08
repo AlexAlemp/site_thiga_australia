@@ -41,7 +41,7 @@
                 <div class="container">
                     <div class="row">
 						<div class="col-md-12 text-center">
-							<img alt="logo" class="logo" src="/img/logos-thiga/logo-HD-blanc.png">
+							<img alt="logo" class="logo" src="/img/logos-thiga/logo_Thiga_with_australia_white.png">
 							<h1 class="text-white">UX Design & Agile Product Management Consultants</h1>
 
 						</div>
