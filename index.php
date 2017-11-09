@@ -7,24 +7,27 @@
     <head>
         <meta charset="utf-8">
         <title>Thiga Australia - UX Design & Agile Product Management Consultants</title>
-        <meta name="description" content="Thiga is a consulting firm dedicated to UX Design & Product Management">
+        <meta name="description" content="Thiga is a consulting firm dedicated to UX Design & Product Management. We believe that meaningful digital products come from a user-centric approach, a deep understanding of the business challenges and a perfect knowledge of technology. ">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
         <?php include('head-global.php'); ?>
 
         <script type="application/ld+json">
-			{
-			  "@context": "http://schema.org",
-			  "@type": "Organization",
-			  "url": "http://thiga.com.au",
-			  "name": "Thiga - UX Design & Agile Product Management",
-			  "contactPoint": {
-			    "@type": "ContactPoint",
-			    "telephone": "",
-			    "contactType": "sales"
-			  }
-			}
+{ "@context" : "http://schema.org",
+  "@type" : "Organization",
+  "legalName" : "Thiga Australia",
+  "url" : "http://thiga.com.au/",
+  "contactPoint" : [{
+    "@type" : "ContactPoint",
+    "telephone" : "+61-481-945-891",
+    "contactType" : "business contact"
+  }]
+  "logo" : "http://thiga.com.au/img/logos-thiga/logo-thiga-australia-black.png",
+  "sameAs" : [
+    "https://twitter.com/thigaoz",
+    "https://www.linkedin.com/showcase/thiga-australia/"]
+}
 </script>
 
     </head>

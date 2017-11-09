@@ -22,7 +22,7 @@
 			    "@type":"Organization",
 			    "name":"Thiga"
 			  },
-			  "url" : "http://academy.thiga.fr/publications/pa1-guide-du-product-owner",
+			  "url" : "http://thiga.com.au/book",
 			  "workExample" : [{
 			    "@type": "Book",
 			    "isbn": "",

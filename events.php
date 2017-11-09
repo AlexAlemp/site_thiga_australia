@@ -7,7 +7,7 @@
     <head>
         <meta charset="utf-8">
         <title>Thiga Australia - Events</title>
-        <meta name="description" content="Envie de rejoindre la communauté Product Management à Paris. Participez à nos meetups : La Product Conf, Mobile Product Management Meetup">
+        <meta name="description" content="Join the UX and Product community in Sydney">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 

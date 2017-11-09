@@ -8,7 +8,7 @@
     <head>
         <meta charset="utf-8">
         <title>Thiga Australia - Join Us</title>
-        <meta name="description" content="Rejoindre Thiga et devenir un full-stack Product Manager">
+        <meta name="description" content="The heart of a startup in the shape of a consulting company.">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
