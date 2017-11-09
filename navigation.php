@@ -17,18 +17,17 @@
 						</div>
 
 						<div class="col-md-10 col-sm-9 columns">
-							<ul class="menu">
 
-								<li><a href="/we-are-thiga">We are Thiga</a></li>
-								<li><a href="/book">Book</a></li>
-								<li><a href="/events">Events</a></li>
-								<li><a href="/join">Join us</a></li>
-								<li><a target="_blank" href="http://blog.thiga.com.au">Blog</a></li>
-								<li><a href="/contact">Contact</a></li>
+              <ul class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
+								<li itemprop="name"><a itemprop="url" href="/we-are-thiga" title="We are Thiga">We are Thiga</a></li>
+								<li itemprop="name"><a itemprop="url" href="/book" title="Books">Book</a></li>
+								<li itemprop="name"><a itemprop="url" href="/events" title="Events">Events</a></li>
+								<li itemprop="name"><a itemprop="url" href="/join" title="Join us">Join us</a></li>
+								<li itemprop="name"><a itemprop="url" href="http://blog.thiga.com.au" title="Blog" target="_blank">Blog</a></li>
+								<li itemprop="name"><a itemprop="url" href="/contact" title="Contact" >Contact</a></li>
 								<li class="has-dropdown"><img width="18px" src="/img/aus.png" alt="English"><a href="#">&nbsp;English</a>
 									<ul class="subnav">
-										<li><img src="/img/fr.png"  alt="french"><a href="http://thiga.fr">&nbsp;French</a></li>
-						
+										<li><img src="/img/fr.png" alt="french"><a href="http://thiga.fr">&nbsp;French</a></li>
 									</ul>
 								</li>
 							</ul>
