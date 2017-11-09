@@ -106,24 +106,25 @@
 
 					<div class="row">
 						<div class="col-sm-6 text-center">
-							<h5>Paris</h5>
-							<p class="lead">
-                <ul>
-                  <li>+33 6 17 51 77 87<li/>
-								  <li>contact@thiga.fr<br/><li/>
-								  <li>156 bd Haussmann<br>75008 Paris<li/>
-                </ul>
-							</p>
-						</div>
-						<div class="col-sm-6 text-center contactPage">
 							<h5>Sydney</h5>
-							<p class="lead">
-								<ul>
+                            <p class="lead">
+                                <ul>
                   <li>+61 4 81 945 891<li/>
                   <li>contact@thiga.com.au<li/>
-								  <li>204 Clarence St<br/>Sydney, NSW 2000<li/>
+                                  <li>204 Clarence St<br/>Sydney, NSW 2000<li/>
                 </ul>
               </p>
+						</div>
+						<div class="col-sm-6 text-center contactPage">
+							
+              <h5>Paris</h5>
+                            <p class="lead">
+                <ul>
+                  <li>+33 6 17 51 77 87<li/>
+                                  <li>contact@thiga.fr<br/><li/>
+                                  <li>156 bd Haussmann<br>75008 Paris<li/>
+                </ul>
+                            </p>
 						</div>
 
 					</div>

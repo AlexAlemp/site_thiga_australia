@@ -13,22 +13,30 @@
 
         <?php include('head-global.php'); ?>
 
-        <script type="application/ld+json">
+ <script type="application/ld+json">
 { "@context" : "http://schema.org",
   "@type" : "Organization",
   "legalName" : "Thiga Australia",
   "url" : "http://thiga.com.au/",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "204 Clarence Street",
+    "addressLocality": "Sydney",
+    "addressRegion": "NSW",
+    "postalCode": "2000"
+  },
   "contactPoint" : [{
     "@type" : "ContactPoint",
     "telephone" : "+61-481-945-891",
-    "contactType" : "business contact"
-  }]
+    "contactType" : "sales"
+  }],
   "logo" : "http://thiga.com.au/img/logos-thiga/logo-thiga-australia-black.png",
   "sameAs" : [
     "https://twitter.com/thigaoz",
     "https://www.linkedin.com/showcase/thiga-australia/"]
 }
 </script>
+
 
     </head>
     <body class="no-loader">
