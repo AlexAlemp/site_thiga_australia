@@ -10,6 +10,8 @@
 RewriteEngine On
 Options +FollowSymlinks 
 
+RewriteCond %{HTTP_HOST} ^www\.thiga\.com.au [NC]
+RewriteRule (.*) http://thiga.com.au/$1 [R=301,L]
 
 # Product Academy
 

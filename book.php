@@ -74,19 +74,25 @@
 							<a href="/pdf/Product-Academy-1.epub" class="btn btn-primary9">EBOOK</a>
 							<a href="/pdf/Product-Academy-1.pdf" class="btn btn-primary9 btn-filled">PDF</a>-->
               <p>
-               <em>The book is not available in English for the moment but il will be soon. Leave us your email and get notified.</em>
+               <!--<em>The book is not available in English for the moment but il will be soon. Leave us your email and get notified.</em>-->
 							</p>
               <div class="photo-form-wrapper clearfix">
                 <form class="email-form">
-
-                  <input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
-                  <button type="button" style="margin-top:0px;" id="contactFormSubmitButtonPA1" class="btn btn-primary9 btn-filled" value="Send Form">Send</button>
-                  <div class="form-success">
+                	<div class="form-fields">
+                 		<input style="display: inline-block;width:50%;margin-right:20px;" class="form-email validate-required validate-email" type="text" placeholder="Your email" name="email">
+                 		<button type="button" style="margin-top:0px;" id="contactFormSubmitButtonPA1" class="btn btn-primary9 btn-filled" value="Send Form">Send</button>
+                  <!--<div class="form-success">
                       <span class="text-white">Thanks! Your email is saved.</span>
-                  </div>
+                  </div>-->
+              </div>
+                  <div class="form-success">
+                      <a href="/pdf/Product-Academy-1-EN.epub" class="btn btn-primary9">EBOOK</a>
+
+                    </div>
                   <div class="form-error">
                       <span class="text-white">Please fill the form</span>
                   </div>
+
                 </form>
               </div>
             </div>

@@ -99,15 +99,16 @@ $(document).ready(function(){
 
   	//https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
   	var oReq = new XMLHttpRequest();
-  	var payload={text:'New PA1 request on the website',attachments: [
+  	var payload={text:'New PA1 download on the website',attachments: [
         {title:"from ("+email+")"}]};
 
 	//register method called after data has been sent method is executed
   	oReq.open("POST", webHookUrl,true);
   	oReq.setRequestHeader('Content-Type', 'application/x-www-form-urlencoded');
   	oReq.send(JSON.stringify(payload));
-  	$('.form-success').show();
     $('.form-error').hide();
+    $('.form-fields').hide();
+    $('.form-success').show();
 	});
 
 	// Fullscreen nav toggle
