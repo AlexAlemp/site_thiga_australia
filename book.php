@@ -86,8 +86,8 @@
                   </div>-->
               </div>
                   <div class="form-success">
-                      <a href="/pdf/Product-Academy-1-EN.epub" class="btn btn-primary9">EBOOK</a>
-
+                      <a href="/pdf/Product-Academy-1-EN.epub" class="btn btn-primary9">ePub</a>
+                      <a href="https://itunes.apple.com/au/book/id1313663925" target="_blank" class="btn btn-primary9">iBook (Apple devices)</a>
                     </div>
                   <div class="form-error">
                       <span class="text-white">Please fill the form</span>
