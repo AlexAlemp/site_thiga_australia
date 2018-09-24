@@ -12,6 +12,20 @@ $(document).ready(function(){
 		}
 	});
 	*/
+
+	// Menu link color
+
+	if(window.location.href.indexOf("training") > -1) {
+       $('.overlay-bar .menu li a').css("color", "#333333");
+    } 
+
+
+	$('.offscreen-toggle').click(function(){
+		$('.main-container').toggleClass('reveal-nav');
+		$('.offscreen-container').toggleClass('reveal-nav');
+		$('.offscreen-menu .container').toggleClass('reveal-nav');
+	});
+
 	// Offscreen Nav
 
 	$('.offscreen-toggle').click(function(){

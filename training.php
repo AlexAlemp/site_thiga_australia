@@ -36,7 +36,6 @@
 		?>	
 
 		<div class="main-container">
-		
 			
 		<section class="side-image text-heavy clearfix">
 				<div class="image-container col-md-5 col-sm-3 pull-left">
@@ -50,7 +49,7 @@
 					<div class="row">
 
 						<div class="col-md-6 col-md-offset-6 col-sm-8 col-sm-offset-4 content clearfix">
-							<h1><b>Product Manager</b> Training</h1>
+							<h1 style="margin-top: 30px"><b>Product Manager</b> Training</h1>
 
 							<div class="date-next-trainings">
 								<br><p class="next-formation text-white">Next dates :</p>
@@ -71,9 +70,9 @@
 
 							<p class="formation">This training is for digital professionals who want to discover Product Management</p>
 							<p class="formation">
-								After an introduction to<strong>Design Thinking</strong> and <strong>Lean Startup</strong>, you will learn how to build the initial vision of a product and then continue to <strong>user testing techniques </strong> and <strong>rapid prototyping</strong>.
+								After an introduction to<strong> Design Thinking</strong> and <strong>Lean Startup</strong>, you will learn how to build the initial vision of a product and then continue to <strong>user testing techniques </strong> and <strong>rapid prototyping</strong>.
 							</p>
-							<p class="lead">
+							<p class="formation">
 								In a second sted, you will determine the scope of your<strong> MVP</strong> and continue to measure its performance using<strong>the AARRR framework</strong>.
 							</p>
 
@@ -118,7 +117,7 @@
 						<div class="col-sm-4">
 							<div class="feature">
 								<h5>Improve your Product</h5>
-								<p>Discover the AARRR framework<br>Frame your funnel<br>Choosing the right KPIs<br>identify optimisation levers</p>
+								<p>Discover the AARRR framework<br>Frame your funnel<br>Choosing the right KPIs<br>Identify optimisation levers</p>
 							</div>
 						</div>
 					</div>

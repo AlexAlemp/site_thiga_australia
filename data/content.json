@@ -1,0 +1,55 @@
+{
+    "home": {
+
+        "miseEnAvant1": {
+            "labelFormation": "Product Manager",
+            "dateFormation": "30 - 31 octobre 2018",
+            "lienFormation":"/formations/product-manager"
+        },
+
+        "miseEnAvant2": {
+            "labelFormation": "Design Thinking",
+            "dateFormation": "4 - 5 octobre 2018",
+            "lienFormation":"/formations/design-thinking"
+        },
+
+        "miseEnAvant3": {
+            "labelFormation": "Product Growth",
+            "dateFormation": "8 - 9 novembre 2018",
+            "lienFormation":"/formations/product-growth"
+        }
+
+    },
+
+    "pageFormationPM": {
+        "dateNext1": "30 octobre",
+        "dateNext2": "27 november",
+        "dateNext3": "18 decembre"
+    },
+
+    "pageFormationLeadPM": {
+        "dateNext1": "22 - 23 octobre",
+        "dateNext2": "16 - 17 janvier"            
+    },
+
+      "pageFormationPOConfirmé": {
+        "dateNext1": "29 octobre",
+        "dateNext2": "26 novembre",
+        "dateNext3": "17 décembre"
+    },
+
+      "pageFormationDesignThinking": {
+        "dateNext1": "4 - 5 octobre",
+        "dateNext2": "4 - 5 décembre"
+    },
+
+      "pageFormationProductGrowth": {
+        "dateNext1": "8 - 9 novembre"
+    }, 
+
+
+      "pageFormationDataPM": {
+        "dateNext1": "8 - 9 novembre"
+    }
+
+}
