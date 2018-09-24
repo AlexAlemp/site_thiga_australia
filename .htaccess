@@ -34,6 +34,10 @@ RewriteRule ^we-are-thiga$ thiga.php [L]
 
 RewriteRule ^contact$ contact.php [L]
 
+# Training
+
+RewriteRule ^training$ training.php [L]
+
 
 # Si un fichier n'existe pas, essayer de trouver son équivalent PHP (avec le même nom)
 #RewriteCond %{REQUEST_FILENAME} !-f

@@ -3,9 +3,9 @@
 			  <div class="double-bounce1"></div>
 			  <div class="double-bounce2"></div>
 			</div>
-    	</div>
+ </div>
 
-		<div class="nav-container">
+<div class="nav-container">
 		<nav class="top-bar overlay-bar">
 				<div class="container">
 
@@ -20,8 +20,9 @@
 
               <ul class="menu" itemscope itemtype="http://www.schema.org/SiteNavigationElement">
 								<li itemprop="name"><a itemprop="url" href="/we-are-thiga" title="We are Thiga">We are Thiga</a></li>
-								<li itemprop="name"><a itemprop="url" href="/book" title="Books">Book</a></li>
+								<li itemprop="name"><a itemprop="url" href="/book" title="Books">Publications</a></li>
 								<li itemprop="name"><a itemprop="url" href="/events" title="Events">Events</a></li>
+								<li itemprop="name"><a itemprop="url" href="/training" title="Training">Training</a></li>
 								<li itemprop="name"><a itemprop="url" href="/join" title="Join us">Join us</a></li>
 								<li itemprop="name"><a itemprop="url" href="http://blog.thiga.com.au" title="Blog" target="_blank">Blog</a></li>
 								<li itemprop="name"><a itemprop="url" href="/contact" title="Contact" >Contact</a></li>

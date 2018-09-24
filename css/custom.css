@@ -138,6 +138,10 @@ footer .small-text {
   opacity: 1;
 }
 
+.bg-gradient{
+   background: linear-gradient(to left, #24a27c, #39D3A4) !important;
+}
+
 /** END HOME **/
 
 /** CONTACT **/

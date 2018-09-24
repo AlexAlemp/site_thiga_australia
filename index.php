@@ -207,67 +207,46 @@
           </div>
 
 
-<!--
-					<div class="row text-center">
+			</div>
+		</section>
 
-							<div class="col-md-4 col-sm-4 clearfix">
-								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productstrategy-min.png">
-									<span class="align-left">
-										<h4 class="space-bottom-xsmall">Consulting assignments</h4>
-										<h4 class="space-bottom-small">In-house <strong>Product Strategists</strong></h4>
-										<p>
-										Lean Startup, Design Sprint, Design Thinking
-                  </p>
-										<p>
-<<<<<<< HEAD
-										<em>Internal and external analysis, benchmarking, brainstorming, creation of Lean Canvas, exploration of strengths and pain points, design of value propositions.</em></p>
-=======
-                      <em>
-                        Internal and external analysis, benchmarking, brainstorming, creation of Lean Canvas, exploration of strengths and pain points, design of value propositions.
-                    </em>
-                  </p>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
-									</span>
-							</div>
-							<div class="col-md-4 col-sm-4 clearfix">
-								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productdesign-min.png" >
-								<span class="align-left">
-									<h4 class="space-bottom-xsmall">In-house <strong>UX-Designer</strong></h4>
-									<h4 class="space-bottom-small">In-house <strong>UI-Designer</strong></h4>
-<<<<<<< HEAD
-									<p>Lean UX, Design Sprint, Design Thinking, Agile
-									</p>
-									<p><em>User interviews, personas, customer journeys, sketching, wireframing, prototyping, user testing, experience mapping.</em>
-=======
-									<p>Lean UX, Design Sprint, Design Thinking, Agile</p>
-									<p><em>Warm up workshops, user interviews, personas, customer journeys, sketching, wireframing, prototyping, user testing, experience mapping.</em>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
-									</p>
-								</span>
-							</div>
-							<div class="col-md-4 col-sm-4 clearfix">
-								<img class="logo-expertise space-bottom-medium" src="/img/logos-thiga/productownership-min.png" >
-								<span class="align-left">
-									<h4 class="space-bottom-xsmall">In-house <strong>Product Manager</strong></h4>
-									<h4 class="space-bottom-small">In-house <strong>Product Owner</strong></h4>
-									<p>
-										Agile, Scrum, Kanban, SAFe
-									</p>
-<<<<<<< HEAD
-									<p><em>Story mapping, user story writing, product backlog analysis & maintenance, poker planning, prioritisation, stand up meetings, sprints, showcases, retro, burndown.</em>
-=======
-									<p>
-                    <em>Story mapping, user story writing, product backlog analysis & maintenance, poker planning, prioritisation, stand up meetings, sprints, showcases, retro, burndown.
-                  </em>
->>>>>>> 8c7f0fe3f6e6798ecdc8e9e5b1ef7b86be7d560e
-									</p>
-								</span>
+			<section id="home-formations" class="strip bg-gradient">
+				<div class="container">
+					<div class="row clearfix">
+						<div class="col-sm-6 col-xs-12 pull-left">
+							<h3 class="text-white"><strong>Become a certified Product Manager</strong></h3>
+						</div>
 
-							</div>
+						<div class="col-sm-4 col-xs-12 pull-right text-right">
+							<a target="_blank" href="/training" class="btn btn-primary btn-white">Learn more</a>
+						</div>
 					</div>
-
--->
-
+				</div>
+			</section>
+			<section class="feature-divider">
+		
+			
+				<div class="container">
+					<div class="row">
+						<div class="col-sm-5">
+							<h2 class="space-bottom-medium">We train digital professionals in <strong>Product Management</strong></h2>
+							<p class="lead">
+								Wether you are <strong>Project Manager, Developer, Business Analyst, Marketing Manager or Product Owner</strong> with a foot in agility we train you in Product Management.
+							</p>
+							<p class="lead">
+								Our training path allows you to achieve three levels of certification: Product Manager, Lead Product Manager and Head of Product.</strong>
+							</p>
+						<div class="col-sm-5 text-center">
+							<a href="/training" class="btn btn-primary9 btn-filled">Availability & Pricing</a>
+							<br><br>
+						</div>
+							
+						</div>
+					
+						<div class="col-sm-6 col-sm-offset-1 hidden-xs" data-scroll-reveal="enter from bottom and move 100px">
+							<img alt="App Screenshot" src="/img/certifications.png">
+						</div>
+					</div>
 				</div>
 			</section>
 
