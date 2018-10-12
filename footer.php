@@ -14,7 +14,7 @@
 						<div class="col-sm-3 navFooter">
 							<span class="text-white">
 								<ul>
-									<li><a href="/thiga">We are Thiga</a></li>
+									<li><a href="/we-are-thiga">We are Thiga</a></li>
 									<li><a href="/book">Book</a></li>
 									<li><a href="/events">Events</a></li>
 									<li><a href="/join">Join us</a></li>

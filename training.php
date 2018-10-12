@@ -52,10 +52,10 @@
 							<h1 style="margin-top: 30px"><b>Product Manager</b> Training</h1>
 
 							<div class="date-next-trainings">
-								<br><p class="next-formation text-white">Next dates :</p>
+								<br><p class="next-formation text-white">Training Schedule:</p>
 								<div class="row">
 									<div class="col-sm-4">
-										<div class="date-next-formation text-white"><?php echo "<a href=\"".$lien_formulaire_inscription."\" target=\"_blank\" >"; ?><?php echo $date1 ?></a></div>
+										<strike><div class="date-next-formation text-white"><?php echo "<a href=\"".$lien_formulaire_inscription."\" target=\"_blank\" >"; ?><?php echo $date1 ?></a></div></strike>
 									</div>
 
 									<div class="col-sm-4">
