@@ -1,3 +1,3 @@
 <?php 
-$lien_formulaire_inscription = "https://thigatraining.typeform.com/to/wncRmP";
+$lien_formulaire_inscription = "https://www.eventbrite.com/e/thiga-academy-product-management-essentials-tickets-50724806261";
 ?>

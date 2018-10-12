@@ -73,16 +73,16 @@
 								After an introduction to<strong> Design Thinking</strong> and <strong>Lean Startup</strong>, you will learn how to build the initial vision of a product and then continue to <strong>user testing techniques </strong> and <strong>rapid prototyping</strong>.
 							</p>
 							<p class="formation">
-								In a second sted, you will determine the scope of your<strong> MVP</strong> and continue to measure its performance using<strong>the AARRR framework</strong>.
+								In a second sted, you will determine the scope of your<strong> MVP</strong> and continue to measure its performance using<strong> the AARRR framework</strong>.
 							</p>
 
 							<div>
-								<p class="lead2"><img class="icon-image-ab" src="/img/time-min.png"><b>1 day</b><img class="icon-image-ab2" src="/img/price3-min.png"><b>$800</b></p>
+								<p class="lead2"><img class="icon-image-ab" src="/img/time-min.png"><b>1 day</b><img class="icon-image-ab2" src="/img/price3-min.png"><b>$486.39 - $612.99</b></p>
 							</div>
 
 							<div>
 								<a href="/pdf/Thiga-formation-product-manager.pdf" target="_blank" class="btn btn-primary9" style="margin-bottom: 10px;">Detailed description</a>&nbsp;&nbsp;&nbsp;
-								<a id="inscription_pm" href="https://thigatraining.typeform.com/to/wncRmP" target="_blank" class="btn btn-primary9 btn-filled" style="margin-bottom: 10px;">Interested? We will contact you</a><br>
+								<a id="inscription_pm" href="https://www.eventbrite.com/e/thiga-academy-product-management-essentials-tickets-50724806261" target="_blank" class="btn btn-primary9 btn-filled" style="margin-bottom: 10px;">Interested? Book Here</a><br>
 							</div>
 
 						</div>
